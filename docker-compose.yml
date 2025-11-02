@@ -1,35 +1,22 @@
 version: '3.8'
 
 services:
-  backend:
+  app:
     build:
       context: .
-      dockerfile: backend/Dockerfile
-    restart: unless-stopped
-    volumes:
-      # This volume persists your db.json and uploads
-      - backend_data:/data
-    networks:
-      - app-network
-
-  frontend:
-    build:
-      context: .
-      dockerfile: Dockerfile.frontend
-      args:
-        # This path is proxied by Nginx to the backend service
-        VITE_API_BASE_URL: /api 
+      dockerfile: Dockerfile
     restart: unless-stopped
     ports:
-      # Dokploy will manage mapping this port to the outside world
-      - "80:80"
-    depends_on:
-      - backend
+      # Dokploy will manage mapping this port to your domain
+      - "3001:3001"
+    volumes:
+      # This volume persists your db.json and uploads
+      - app_data:/data
     networks:
       - app-network
 
 volumes:
-  backend_data:
+  app_data:
 
 networks:
   app-network:

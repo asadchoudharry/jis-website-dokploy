@@ -14,6 +14,8 @@ const isProduction = process.env.NODE_ENV === 'production';
 const dbPath = process.env.DB_PATH || path.resolve(__dirname, '../db.json');
 const uploadsPath = process.env.UPLOADS_PATH || path.resolve(__dirname, '../uploads');
 
+app.use(express.static(path.join(__dirname, '../public')));
+
 app.use(cors({
     origin: isProduction ? ['https://your-domain.com'] : '*',
     methods: ['GET', 'POST', 'PUT', 'DELETE'],
@@ -482,6 +484,10 @@ app.delete('/api/popups/:id', authenticateJWT, (req, res) => {
       res.status(404).send('Popup not found');
     }
   });
+});
+
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, '../public', 'index.html'));
 });
 
 // Error handling middleware
