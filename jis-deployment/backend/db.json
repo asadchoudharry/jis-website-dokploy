@@ -1,0 +1,104 @@
+{
+  "siteSettings": {
+    "title": "Jubail Industrial Solutions Co.",
+    "logoUrl": "/assets/JISLogo.tsx"
+  },
+  "pages": [],
+  "forms": [
+    {
+      "name": "Contact Form",
+      "steps": [
+        {
+          "title": "Contact Information",
+          "fields": [
+            {
+              "name": "name",
+              "label": "Name",
+              "type": "text"
+            },
+            {
+              "name": "company",
+              "label": "Company",
+              "type": "text"
+            },
+            {
+              "name": "email",
+              "label": "Email",
+              "type": "email"
+            },
+            {
+              "name": "phone",
+              "label": "Phone",
+              "type": "tel"
+            },
+            {
+              "name": "service",
+              "label": "Service",
+              "type": "select",
+              "options": [
+                "Trading",
+                "Dewatering",
+                "Hydrojetting",
+                "Chemical Cleaning",
+                "Waste Management",
+                "Manpower"
+              ]
+            },
+            {
+              "name": "message",
+              "label": "Message",
+              "type": "textarea"
+            }
+          ]
+        }
+      ],
+      "submissions": []
+    },
+    {
+      "name": "Multi-step Survey",
+      "steps": [
+        {
+          "title": "Step 1: Personal Information",
+          "fields": [
+            {
+              "name": "firstName",
+              "label": "First Name",
+              "type": "text"
+            },
+            {
+              "name": "lastName",
+              "label": "Last Name",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "title": "Step 2: Feedback",
+          "fields": [
+            {
+              "name": "feedback",
+              "label": "Your Feedback",
+              "type": "textarea"
+            }
+          ]
+        }
+      ],
+      "submissions": []
+    }
+  ],
+  "header": {
+    "content": []
+  },
+  "footer": {
+    "content": []
+  },
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin"
+    }
+  ],
+  "jwtSecret": "your-super-secret-key",
+  "popups": []
+}

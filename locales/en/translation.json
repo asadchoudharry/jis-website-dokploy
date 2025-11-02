@@ -1,0 +1,835 @@
+{
+  "meta": {
+    "title": "Jubail Industrial Solutions Co. (JIS)",
+    "description": "Jubail Industrial Solutions Co. (JIS) is a premier industrial services and trading company based in Jubail Industrial City, Saudi Arabia, delivering reliable, innovative, and sustainable solutions."
+  },
+  "header": {
+    "phone": "+966 13 362 5555",
+    "email": "info@jis-saudi.com",
+    "lang_en": "EN",
+    "lang_ar": "AR",
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "industries": "Industries",
+    "projects": "Projects",
+    "certifications_policies": "Certifications & Policies",
+    "our_certifications": "Our Certifications",
+    "hseq": "HSEQ",
+    "quality_policy": "Quality Policy",
+    "hse_policy": "HSE Policy",
+    "environmental_policy": "Environmental Policy",
+    "careers": "Careers",
+    "cta": "Request a Quote"
+  },
+  "footer": {
+    "description": "Jubail Industrial Solutions (JIS) is a premier industrial service provider in Saudi Arabia, committed to delivering innovative, reliable, and sustainable solutions to our clients.",
+    "company": "Company",
+    "about": "About Us",
+    "projects": "Projects",
+    "industries": "Industries",
+    "careers": "Careers",
+    "contact": "Contact Us",
+    "services": "Services",
+    "trading": "Trading Services",
+    "dewatering": "Dewatering",
+    "hydrojetting": "Hydrojetting",
+    "chemical_cleaning": "Chemical Cleaning",
+    "waste_management": "Waste Management",
+    "manpower": "Manpower Solutions",
+    "project_support": "Project Support Materials",
+    "resources": "Resources",
+    "certifications": "Certifications",
+    "downloads": "Downloads",
+    "hseq_policy": "HSEQ Policy",
+    "quality_policy": "Quality Policy",
+    "hse_policy": "HSE Policy",
+    "environmental_policy": "Environmental Policy",
+    "privacy_policy": "Privacy Policy",
+    "cookie_policy": "Cookie Policy",
+    "cookie_scanner": "Cookie Scanner Tool",
+    "manage_cookies": "Manage Cookie Preferences",
+    "terms": "Terms of Use",
+    "sitemap": "Sitemap",
+    "copyright": "© 2024 Jubail Industrial Solutions Co. All Rights Reserved.",
+    "developed_by": "Designed & Developed with excellence."
+  },
+  "home": {
+    "hero_new": {
+      "image_url": "https://images.pexels.com/photos/386009/pexels-photo-386009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "gear_image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuA2B8-rG9ubNBPiI-NFPgFiKB7pVGSmQ6qX_v51TUglH_6uUg5tlBgRP3axTh53NWBxhVebOsDIoaxX2EE0yo84Fsk8O-ySjBsSakJe_PlGPDpVPong6-vdUmhxtRx45gFIPjKrLLRujT2p1Kz_zeR2rixnakkoQAW0xRmUkd5pd6IA5QxkppOSXYkNeIIg5vJDgb9dEEdkoXE3w5BZDCzXaa_JV81xMZHKUzxxNFKT4MOtnyqpsIZi81GB1SMZcDUcHwdJq6FB43k",
+      "title": "Innovative. Reliable. Sustainable.",
+      "subtitle": "Welcome to Jubail Industrial Solutions Co. (JIS), your trusted partner in delivering innovative, reliable, and cost-effective industrial solutions across the Kingdom of Saudi Arabia.",
+      "description": "Combining fresh ambition with decades of industry expertise, we provide practical and sustainable services tailored to meet your unique needs.",
+      "cta1": "Explore Our Services",
+      "cta2": "Request a Quote"
+    },
+    "welcome": {
+      "title": "Welcome to Jubail Industrial Solutions",
+      "description": "Jubail Industrial Solutions (JIS) is a dynamic and forward-thinking company specializing in a comprehensive range of trading, contracting, and industrial services. We understand the challenges our clients face and are dedicated to delivering practical, reliable, and sustainable solutions that yield measurable results.",
+      "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBPWh_iT-IRaFbhlVLEhAR8aEM8m2vSll3qbIUK1cV-MFIR6-7FS3F3sJpa5c_1eiazkQOo8Ha5W-kiJVBDYZek0S6Tk8EJxG0WM_WZ2Gz4JZc7dGScFK1NphdFKviI5BqOWLeNhglCoBuhBqOY95MCXluLqFFk2fLSZA4VmC4js30S08KZxg6kdDtn2PjTfhyQQEGY8rIQM1e13OU7c5ssk6j2xU1E9oJ_wa8VjJTMEWImnLu60pGNIQLbJMWb7pVDcv-jWZGrbgU",
+      "image_alt": "Team of diverse engineers in hard hats reviewing blueprints at an industrial site"
+    },
+    "services_section": {
+      "title": "Our Comprehensive Services",
+      "subtitle": "At JIS, we offer a comprehensive range of trading, industrial, and support services designed to meet the unique needs of the oil & gas, petrochemical, power generation, construction, and manufacturing sectors.",
+      "cards": [
+        { "title": "Trading Services", "description": "Sourcing and supplying high-quality industrial materials and equipment to ensure operational efficiency and reliability for our clients.", "link": "/services/trading-services", "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDLLxe98QzY1oTuPvjw2XX27sSXJc7auoc6VfhkjxtsPkL2HtJjtd9dvtKVdbh9eDjJTvSoWUJRMwZGopMRLKCI4byOxoqZI5zr5t8m7tM-CtCta56emCr8VftdnW9c-X62ofXu8ob52PGD4kGEOAXdig2VOLGDeRNjJgttdidIY0D6bSxkcu7YuxS3Hfg-0o93Xb5bmfJvNEkwByhFV6FJL9tDef0AcpMhZihUHLlw3kFfOw59yrMnWJGfp6I8IpHPaIE4kAieQG8", "image_alt": "Industrial warehouse with stacked materials and equipment" },
+        { "title": "Dewatering Services", "description": "Providing efficient and environmentally compliant water management solutions for construction, industrial, and municipal projects.", "link": "/services/dewatering-services", "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCP4ybtkH3LA3Rv_nA-rdtVWXM02YXCTTLIE-DPkhbJH7vuH7i7iIY7C1Tt6d8uUOJJA8iAFn8gyOEW8LHNyEgQQErYM5y8ZCbexl1oVj-p5u8IXOFECnc01QxNOr697-AtBrxJ1aJhxjaBc0hBl6kn7wCwsaw9cFahbEK3mI9VzoUnPCKHXHdZrQ2dN5IRX8bJq2F5blK9opjo5qRsEw8kzgt92DuIk7HQncs5FQNHrWJsT7CR7FolGQqaG5JkzlqB9Ly1VCT3op0", "image_alt": "Large dewatering pumps operating at a construction site" },
+        { "title": "Hydrojetting Services", "description": "Utilizing high-pressure water jetting for superior industrial cleaning, surface preparation, and pipe maintenance.", "link": "/services/hydrojetting-services", "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBtyjLSXj2RiCdbsSjiv_eUlUeaEssYiY0wmeQKiNlB_x9DJho1zvaz1T5PGQ20bNJBtNPG-rkRTUjJead-O82X8n7QxkbWKZbEKp70suhc6UEfXjYRiwCOvRzHmtoeb4egCeImVp-trIY5OqCJaUIHaejGhgptLMJuUa4Jrzcr5tq9sE5suod9VXbCvU_PYkl5_69Y3p6WU6uUhivMGFfCvkRzp7PTeCsSjeOOgWwJNIn3zuXnze8h0WK9KdvDOGaUQICzsoU-uKo", "image_alt": "Technician using a high-pressure hydrojetting hose to clean industrial equipment" },
+        { "title": "Chemical Cleaning Services", "description": "Offering advanced chemical cleaning solutions to remove contaminants and optimize plant performance and efficiency.", "link": "/services/chemical-cleaning", "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCEZYMl7NtDHpXIA5ixagfppfU8nBP5YeYAMBzQmmLqnlByje40hkrg162csJLcCzA8KsqYCIItYy1TUKo8iQzNdsbuQXYE6fwEPa5LPy_28u-FWnCuwVLYsFhzH_EUgiHvqTSjDgIawTEZsyjv-bcjm-sZ9k_0Girze2PmXjTjs6UYF3NOFXl4uDvF0Va7gDrcbYZ6jv-YzESP4RoZY1cgbMLT27n8E4Mz_dk4_DByz9w1YHoCUzM2Nx0x6Hp5sJxgyGYgP5czH_4", "image_alt": "Scientist in a lab coat handling chemical solutions for industrial cleaning" },
+        { "title": "Waste Transportation & Disposal", "description": "Ensuring safe, compliant, and responsible management and disposal of industrial and hazardous waste materials.", "link": "/services/waste-management", "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBgEYWI1Yo4eUnL2NPA7pCxQqow3NZGxt2YHEHo-blIQaaucxJjepcLUSf8WU0kA4vz5CpTD7GelN2n8KUj4rpoGT-pML5pKvyyQAHjd4hOnSPfhL2FC9DWP8MXonlcUyLQzOhqmek0kTcz6gNKtfylPlt6tEFHlamVEB3i_D0kqH7mJDA1wifYQxZf_4F9NZi316Od6tAzaBS3MHWhssVhNOakOfrx4nIveV2Oz0DYGmF67fruUzULHcyH5Yl4aKUAPx0VetjpAV4", "image_alt": "Specialized truck for hazardous waste transportation at an industrial facility" },
+        { "title": "Specialized Contracting & Manpower", "description": "Providing skilled, certified, and experienced manpower for specialized industrial projects and long-term operational support.", "link": "/services/manpower-solutions", "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAwb0SoyrK4uKgrnDi2lH7VVHYNBhxWPthpJRW576NTUBR39xJ6SFiz9EOeTmhXqkYshmyPdRcuA2iO_UAvKpADwufRZGSvikh3CaSznusUNfKNGnSzVN968wRgpwO-yTkcyMrA-_09nCGy8TCMJumWHbh0QjWH63uQ_t838rVnTivmZvIQIBxdaxl2MkPkhs_85guMw_YbDs3BvT9rgSP0pBBgrax7va3CNkS0DlGsF1Aa8Oe2YCdDCf5tBHmhVcXDUg_-sHTWSvE", "image_alt": "A team of skilled industrial workers collaborating on a complex project" }
+      ]
+    },
+    "why_us": {
+      "title": "Why Choose JIS?",
+      "subtitle": "We combine industry expertise, innovative solutions, and a client-focused approach to deliver services that are practical, reliable, and sustainable.",
+      "points": [
+        { "icon": "engineering", "title": "Industry Expertise", "description": "Our team possesses deep industry knowledge and hands-on experience, ensuring solutions are effective and relevant." },
+        { "icon": "verified_user", "title": "Quality & Safety Assurance", "description": "We adhere to the highest standards of quality and safety in all our operations, protecting your assets and personnel." },
+        { "icon": "developer_board", "title": "Advanced Technology", "description": "Leveraging state-of-the-art technology and equipment to deliver efficient, precise, and cost-effective services." },
+        { "icon": "handshake", "title": "Client Partnership", "description": "We work collaboratively with our clients, building long-term partnerships based on trust, transparency, and mutual success." }
+      ]
+    },
+    "sectors": {
+      "title": "Serving Key Industrial Sectors",
+      "subtitle": "JIS serves a diverse range of industrial sectors throughout Saudi Arabia, delivering specialized solutions tailored to each industry's unique requirements and challenges.",
+      "items": [
+        { "icon": "oil_barrel", "title": "Oil & Gas" },
+        { "icon": "science", "title": "Petrochemical" },
+        { "icon": "bolt", "title": "Power Generation" },
+        { "icon": "water_drop", "title": "Water Treatment" },
+        { "icon": "precision_manufacturing", "title": "Manufacturing & Construction", "span": true }
+      ],
+      "cta": "See All Industries"
+    },
+    "final_cta_new": {
+      "title": "Ready to Experience the JIS Difference?",
+      "subtitle": "Partner with us for reliable, efficient, and sustainable industrial solutions. Let's discuss how we can support your next project.",
+      "cta1": "Get A Quote",
+      "cta2": "Contact Us"
+    }
+  },
+  "about": {
+    "page_title": "About Us",
+    "title": "About Jubail Industrial Solutions Co. (JIS)",
+    "who_we_are": {
+      "title": "Who We Are",
+      "description": "A comprehensive introduction to JIS, outlining our history, expertise, and commitment to providing top-tier industrial services and solutions in Jubail Industrial City and beyond. We are dedicated to driving industrial progress through innovation and excellence.",
+      "images": [
+        { "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuA4kTC6hdTuTz8VjTwAC3Qu76Vk0G74Su1Y7H9uxhGRHFNS5cG_OA0JDEG5Zz1gDwhjU7OG0w_sBbyrmN2LSXjLxDqLZF_Bt_zoHN1aut911cAjOJP34dTlEZFdVv2SadRpLeCrV4ZoUNMwHwXfMpEf1kR_Tq4CQXpou6u5NsPPHI_qvCmheutx1klcphcdV9iFxbyiwUa7TC6zY_O_bZlrndzMwF81XwC1egY5ZEOdQcK7MyJQS3Y0FGVsGKZ3tHgBICJC2IVZ0Kc", "alt": "Saudi engineers in a modern control room" },
+        { "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDXvb66PyvWpFUIjRmkJJL3u6oT0yBPhS65lqOyQZGUAoe71xG93zT9JM8mbJ0kPurtgGrk4EBVOIFHsMyiebCbyR5tHU1WhASQuNDAtMHKgehxyBc_N5IyhB2wpOVrf1dw7cYEzpqoRgoSbW4t4iMVfmZWU6KzBR5kDZ8sbaQe8vobPz5jfV80xXbD7wICe-3x-MW6NStEE5Lf86JOFrSYmN0fIiLz64FJtqoQcF-9s_3cRNPcDSSwzBvOlZedKlAqqc97kSKUxPc", "alt": "Technician inspecting industrial equipment" },
+        { "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBg7wtZwJTElgCNPe4d_WF96TescNe6QFSiEScwccfH4mAGkexL054iRHm5SUVN8RutfgMOHLJtf_l4hvSOizXeL8G-6P0Tt5ePEVaZI426GSAyK-5wFm0Z5QwindkNOU09D5D2xkvMudoPNhFNuhbE2_DGr9K0ZpqFzJnWtiL3LB4uMlfaLGsE7nEnd_ekriRySw-ba11F6qhOhcRaB1jhc3qauN87vKsmZAFIA1FI4HL409JigBDLoKUJ4c0ML9spRmnvAvdIfJA", "alt": "Overview of Jubail industrial plant at dusk" }
+      ]
+    },
+    "vision_mission": {
+      "title": "Our Vision & Mission",
+      "vision_title": "Our Vision",
+      "vision_desc": "To be the leading and most trusted partner for industrial solutions in Saudi Arabia, pioneering innovation, sustainability, and excellence in every project we undertake.",
+      "mission_title": "Our Mission",
+      "mission_desc": "To deliver high-quality, safe, and environmentally responsible industrial services and products, fostering long-term partnerships with our clients, empowering our employees, and contributing to the Kingdom's Vision 2030."
+    },
+    "ceo_message": {
+      "title": "Message from the CEO",
+      "quote": "\"At JIS, we are not just building industrial projects; we are building the future of Saudi Arabia. Our commitment to excellence, innovation, and safety is the cornerstone of who we are. Every day, we strive to exceed expectations and contribute to the prosperity of our nation and our partners.\"",
+      "ceo_name": "Chief Executive Officer,",
+      "company_name": "Jubail Industrial Solutions Co."
+    },
+    "core_values": {
+      "title": "Our Core Values",
+      "cards": [
+        {
+          "letter": "J",
+          "title": "Journey of Excellence",
+          "description": "We are on a continuous journey of improvement, striving for the highest standards in every aspect of our operations to achieve unparalleled excellence.",
+          "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuBgCyHbWTZEMCDjDfD0HnEdeVBBdiGaRWVmWS674uGjF-2tYWwsf_Eg1KUgtZ2B7zDkGoPLFObxnyWM98go5eZxkABLMj4dxqYn5yoNg-cEhl2P8iuwx8aRrN-gmU6ngowGqOe1qupO4b8VBYzZyx4UjqNyX4Q4hfMYL7mkk9SecidgBpVlfEwtqkr47jfEKD4gqaK8_n7oZPgN8lnCeeNJdwdykfO1np_L2G_DbmrNeRNtk8eB9tSeY8V0g14oqluY72tfVygSJPg",
+          "imageAlt": "Journey of industrial excellence"
+        },
+        {
+          "letter": "I",
+          "title": "Innovation",
+          "description": "We embrace creativity and cutting-edge technology to pioneer innovative solutions that address the evolving challenges of the industrial sector.",
+          "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuBluY3XAosoPPyIC7yNpoTz_dwnHlAvMCXL4tBrRvXORRO4sQFbyyllcHbzZ_NzrVtZA8QE1QX-1BC1nRii8X25qSwpnnETvibweGG4ib8KjYfYsmqvFFsIVQlx3GKPNT13IRihFObCl9-YU-0nyJzrh1cshbUcCnFRoI7WVrSJzOyJKudob9JQ3a1p3Bc83DugnHX2Gl-azGsLQj6El1irnrX0P-tFSMjeCX5EpiYpwLiSgWjQiy7mzFJlUN754hYAm2scNr9W-gk",
+          "imageAlt": "Innovative industrial technology"
+        },
+        {
+          "letter": "S",
+          "title": "Safety & Sustainability",
+          "description": "We are uncompromising in our commitment to the safety of our people and the sustainability of our environment, ensuring a secure and prosperous future.",
+          "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuDX_vt_49DzjDoy4wuSUDRJWyi9J6BsD0Yu-TeufcNnj5xjFxI1QzdhoqkGupiB8cqiZQesvTGd-TVwGAUTenD1EsLp4TV1IgVitcNabYwGNthDihaIu9py26iM1o7JJydavbMpPfgQAEUO86hExYttXmBHQuX_aWo-1EU603PQ7st1YiyxKEjuPxBApiv3M46uNsDN-biiDJvxUe7YBHp7gloPbt5sEl2kZUMWJRQZ2fg3W4LFLfCv2JWM55T_tlTH46woewnUiUk",
+          "imageAlt": "Industrial safety and sustainability"
+        }
+      ]
+    },
+    "policies": {
+      "title": "Our Commitment to Excellence",
+      "subtitle": "Our policies are the foundation of our operational integrity, guiding our commitment to quality, safety, and environmental stewardship.",
+      "list": [
+        {
+          "title": "Quality Policy",
+          "description": "Jubail Industrial Solutions Co. (JIS) is committed to achieving the highest standards of quality in all its industrial services and trading activities. We aim to consistently meet and exceed customer expectations through continuous improvement, adherence to international standards, and a culture of quality excellence.",
+          "points": [
+            "Implementing and maintaining a robust Quality Management System.",
+            "Ensuring compliance with all applicable legal and regulatory requirements.",
+            "Fostering a culture of continuous improvement and employee empowerment."
+          ],
+          "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuAQMrOg-4PwGEYMI8qKrBkSusoK9hl4DJG5xBJtoNRvJz8XOuYdqN-QrTgyeIJuU3VmCPRw5LBboGBbtMmiglF-pU7ztdIRqP-K3dDtxHATJGtPmL_NXbkzG-0-Hh9eG1p6iI-VIu1ow6c1qXz477tGxMRp7U-6uB66YcNlgALbR2DAtX4ow8tPJOba4mX9i5mgHbYVfjvOHFB-9nLqFxMZCh9MJ0SjsMkswEJn9eJKN8p3BNbwXpipIVANQp6-ZS5yievajIdeu5E",
+          "imageAlt": "Precision engineering inspection and quality assurance."
+        },
+        {
+          "title": "Health, Safety & Environment (HSE) Policy",
+          "description": "The health and safety of our employees, clients, and community, along with the protection of the environment, are of paramount importance. JIS is committed to preventing incidents, injuries, and occupational illnesses through proactive risk management and a deep-rooted safety culture.",
+          "points": [
+            "Striving for zero harm to people and the environment.",
+            "Providing comprehensive safety training and resources.",
+            "Complying with all HSE legislation and best practices."
+          ],
+          "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuAlqqQEGKGSeZI3nwZglKcOsovt8ipQoqHivnxBtDHnvGq6-BViQUroQBZK_iojDrpE1eYj1Svri1oScSn8Oq1IEFbKWU-8j3kpH2g5Dmk8-cBhXZEgELtw_69W5IDLEkJXO5ViL-WRbRc7mEt2z9XsHJZZ6sN9OU0V89zO5tNRdMc6fFfsRUWJdd3gDESF1qeDYB7fMxZJWlfqC8czpCLf-vamdaGVBplR6qA8l9rxrwIVqcMHNYTERLvaUGQRe8mISNQVD09Ofow",
+          "imageAlt": "Worker in full PPE overseeing a safe industrial process."
+        },
+        {
+          "title": "Environmental Management Policy",
+          "description": "JIS is dedicated to minimizing our environmental footprint and promoting sustainable practices. We integrate environmental considerations into our business decisions and operations to conserve resources, prevent pollution, and protect biodiversity for future generations.",
+          "points": [
+            "Optimizing the use of energy and natural resources.",
+            "Minimizing waste generation through reuse and recycling initiatives.",
+            "Continuously improving our environmental performance and management system."
+          ],
+          "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuAnNaMI1ACNujRbk4BGrlI6n6BsFwBXm1fP73XG_gvIylkUG892fYYA2MhxW25sLHTy2jm8z4xGJJTAORKuJlHlcwRBnO3LeyHXC08oI2G8bhEuTSnINQzktiFz4mCH313WAgP9xYVFPHOjXKZL5hQZBuBQc7RPZ686ZicsopHgry8SPNNh3gjM9f1eFvB4FPilqASU8i76Wkag-TCL9QpUJqZ69PkOAa-8WxyrAqjeD2K9KHCKnOYxcuszv3xbHzT94dc7qIFkw7k",
+          "imageAlt": "Wind turbines in a desert landscape symbolizing green energy."
+        }
+      ]
+    },
+    "why_us": {
+      "title": "Why Choose JIS?",
+      "choices": [
+        { "icon": "engineering", "title": "Industry Expertise", "description": "Deep knowledge of the Saudi Arabian industrial landscape." },
+        { "icon": "model_training", "title": "Advanced Technology", "description": "Leveraging cutting-edge tech for optimal solutions." },
+        { "icon": "verified", "title": "Quality Assurance", "description": "An unwavering commitment to the highest quality standards." },
+        { "icon": "handshake", "title": "Client Partnership", "description": "Building lasting relationships on trust and mutual success." },
+        { "icon": "public", "title": "Local Expertise, Global Standards", "description": "Combining local insights with international best practices." },
+        { "icon": "emergency", "title": "Emergency Response", "description": "An agile and responsive team ready to handle urgent needs." }
+      ]
+    }
+  },
+  "services": {
+    "title": "Our Industrial Services",
+    "hero_title": "Comprehensive Industrial Solutions",
+    "hero_subtitle": "We deliver a comprehensive suite of services designed to tackle your most complex operational challenges, delivering measurable results that drive operational efficiency and long-term success.",
+    "hero_image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBbbUOrFmnBrXjiyKtyz8y-eeZq_Oi3_B5K4gwvdGNyXrVK1-SufyuHAyBOK2gblG5gHTex571MZNb1EBMGdnaBKkUgnrXSZQqp04aY-gpVhT8E8i15SN5KQDzFuI7gIC-cDs-yynqGznk1EZB02FzBsmfbREDGm6ooaTA1HBVSfaRRt1F0CagXUgY532yFFdWp4nu9_z1tga1CZ--VQKM9YrE1kCn6wqZpASgzDXryv41o_eQCTzIBt4Za1_kNha02vpx_-tN-XV8",
+    "expertise_title": "Our Expertise, Your Advantage",
+    "expertise_description": "At JIS, we offer a comprehensive range of trading, industrial, and support services designed to meet the unique needs of the oil & gas, petrochemical, power generation, construction, and manufacturing sectors. Our solutions combine expertise, advanced technology, and unwavering reliability to ensure operational efficiency and client satisfaction. We provide tailored solutions backed by advanced technologies, robust local knowledge, and a vast network of trusted partners. At JIS, we turn expertise into results.",
+    "expertise_images": [
+      {
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCMvWl_3WZ1y6KuHeFjhin-29ZMn4r4UQiWYnp8oQN7raFbPMIKNppKXt8_yEqjWYYEF17AtBRlUVZJWMgZ1wvBaQ_hnPdFO9Sbg02rbTMErFkg6tCGJVvMd8sfOEcPDmaxss0O-zE2AxTyrZxhuVe7Akgk6jw_5UNq8zKJNF2cUbCjX7chN-JfZ0gQDPopcchFGGCMqxUuqKe4U2dUjtltUagfosjwc27gVacp4h-WgGGFyOtX9ZSm1KREDUXkdk2L-qqBZwKlXCU",
+        "alt": "JIS team members in safety gear collaborating at an industrial site."
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuC62DEE8d744o8wUBdnzwixdFcxQxB5zbz_U9pa9jst0GmGGV0xqy1GGybVyr2jkaA0c8TzA9cOIJnZXWWTh613QoQXZsT8G7lxNGtmweMV8qgId2lJ5gRKd__-jlZTWUgOshJIzONzPKtyyhBSXXMJRxuW-vSiyyKjbVCncmpUyWjhrPfF69HvC6sq2J6WTIJFNH16iF2kUBd8cVMo7bOR0d8dh5tNQgCKOjkoAiLCEPbQ9ukPXrFW_sVps1dfWsoOkUvDonjA0A8",
+        "alt": "Close-up of modern industrial equipment being operated by a JIS technician."
+      }
+    ],
+    "explore_title": "Explore Our Services",
+    "explore_subtitle": "Our specialized divisions are equipped with the technology and personnel to handle your most critical operational and maintenance needs.",
+    "service_cards": [
+      {
+        "title": "Trading Services",
+        "description": "Our trading services provide an end-to-end supply chain solution for industrial materials, equipment, and spare parts, ensuring timely delivery and quality assurance through strong global partnerships.",
+        "link": "/services/trading-services",
+        "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuCDqqRjDGKfqSRvwr8inCO31vt33BP_jtqhTOJKrOolWK8IgZuTjjb2vmmiX3t7CJf8RU4CxImFRyBd47k2PKDOaK6-UnKZgxVS_RCvRG-teJIfjk-fhQ2_xGxBEpIUFElwIS_V6V9KKnUUHJi_p5feWaNERuI_4ib2lEvL3_ghCsov0gyOfba1BEynOd3RRNP5P1mAyOeWLnW88A8aqNt6xxmGS6eQiWN8rWvOv9SSFIcOEUrlJUFez1DcW4POp2Ln1RQOP9mzpuI",
+        "imageAlt": "A clean, well-organized warehouse showcasing stocked shelves of industrial components like flow meters, valves, and pipes."
+      },
+      {
+        "title": "Dewatering Services",
+        "description": "Our dewatering services offer effective water management solutions for industrial sites, construction projects, and treatment facilities. We use advanced pumps and filtration systems to remove excess water, control groundwater, and maintain a safe, dry, and productive work environment.",
+        "link": "/services/dewatering-services",
+        "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuD9rw_1vQzuQodrZoALdgJzwDOx3g9FvHbUbMjbqNE3y5IOYNgCFt16WI4Z9kVLX-636uQVBrO2eEXFdYpSG36d8QnkXAhLiFIvrOXqx6T62395lkMnQ7U1qLAmiuvI0s9z-kgHA2zfVFsUSC77cZx22ow4bFVLsibqtqr12QrxIUHr71xgTeZvOjqSUBkjclrl0eEBC7Ei0hFeAMiworSPitTHxylgwfVxSahW4YlPDjBQiZsONBsoHDv2-jh2n6xYyAdY77XotvM",
+        "imageAlt": "A large-scale construction site with a professional dewatering system in active operation."
+      },
+      {
+        "title": "Hydrojetting Services",
+        "description": "We provide high-pressure cleaning for pipelines, tanks, and industrial equipment. Using advanced hydrojetting technology, we efficiently remove tough grease, scale, sludge, and other deposits to restore optimal flow, performance, and thermal efficiency.",
+        "link": "/services/hydrojetting-services",
+        "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuCAl5IjnmSScJb1YJq4XqoEvhzC7csrSiIxhRejjIhKMch_-Wnz5Hiw1w9PI2gXnHRFsmEdB3k0iqVwHP_csyxGgYvsT4vBTAi56EVz5koVQSkdw-9KJa5fBkwSiCJ_4ksfSdX_0Kgym58a0Ls802MM3DGf28Ew3U3nKphXm-MjhZwQii9zxEDwPPXBnQ_or662LWVLLMVEFCR-0fwyHOTVxbvbrmh9k7sjwY6pFBsgWpYISYnICp3jzagALmkUL3B9vmwDr6cIlLU",
+        "imageAlt": "A trained technician in full PPE using a high-pressure water jetting lance to clean a large industrial component."
+      },
+      {
+        "title": "Chemical Cleaning Services",
+        "description": "Our chemical cleaning services offer specialized solutions for piping systems, boilers, vessels, and lube oil systems. We effectively remove sludge, residues, oxides, and other deposits that compromise system efficiency, extending equipment life.",
+        "link": "/services/chemical-cleaning",
+        "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuBbrn1n3ooCXpCIb-KYjwtYVZP1nGKD0_Z3BvrINJNVYAqba9n6pWRS8U5v9zA4KFakUGd8hx9bgq7OT1tHyOH9DIt6hIUqHMM2Dj3Z7sR_HDir7UtyzbBctALH8dJmPBBf1Fti0HrgPTzKTmgmhdrQ6QjInB-Bim31l2p-NKpoH-cXTKNI0g42c_KyqAZeyLgcFg11rL6aaGJr1nigaZ6ZKYAcYUGMBpSPVtnImyDuE0w4vjtyw2AA6qv9D9OOuM3xfJg4Y__BFsA",
+        "imageAlt": "A clean, complex array of stainless steel industrial pipes and vessels in a petrochemical facility."
+      },
+      {
+        "title": "Waste Transportation & Disposal",
+        "description": "We offer safe and environmentally responsible solutions for industrial waste handling. Our services manage the collection, transportation, and disposal of hazardous and non-hazardous materials in full compliance with all local and environmental standards.",
+        "link": "/services/waste-management",
+        "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuBuT9nfYUEA6m8CZUdWqK6xJ3s0V4ptiRz5bVGJz2B0dhw_8UQsPfNnKkvnRm6bTtmUmbsH9bOVGeT3Qg7hmaEDyCpIetGw_CXlRQjil9bdZPc9L7dwWE5SNK13D3huCq9KGj6L67_njD0Yd3CCyiEo-1QEec-NaeViHkL0WrNbOwVOQnIAuEnibLGKXBTD2dzVdYm0MFyJldnCORm0m4gtfmEpRvJNzYNQcZcc27QfJ0PdLKZVwlETK7Xj5XFIyxIvESBYE1bd9cQ",
+        "imageAlt": "A modern, specialized vacuum truck at an industrial plant site, marked for industrial waste handling."
+      },
+      {
+        "title": "Specialized Contracting & Manpower",
+        "description": "Our manpower solutions provide highly skilled and certified personnel for on-site operations, technical support, and project execution. We deliver a flexible workforce tailored to your specific requirements, helping you achieve project goals on time and safely.",
+        "link": "/services/manpower-solutions",
+        "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuCIQtDauDWg8k50r7YYqPc8uq6lXqaK7SPBrG2pd4GxZYmTqFiA4eMVJt1S5DbcuZqeCEw2TGNRkWFRfLpt_lTbU3WP4B_JYLpcLNUyNUAb9vxgmJO1Z0H_387AUgjc-68n9CdLOio-EV03erTCl24f3eHk30uOGsyWWnuoDrQwM3orPzpnAcJyTgVmi79KLFUMI5BDZTcg-15bwDNOa0isV6MRN8AicLdqk3NVZhNuUfadbxXt45SSiJVtQ0LXpvEObH67RZ9TleE",
+        "imageAlt": "A small, diverse team of skilled technicians in uniform at a plant site, reviewing technical plans."
+      }
+    ],
+    "cta_title": "Get a Custom Solution for Your Challenge",
+    "cta_description": "Facing a specific operational challenge or planning a major project? Contact our expert team today. We are ready to listen to your needs, understand your challenges, and propose a customized, cost-effective solution that delivers real value.",
+    "cta_button_text": "Request a Quote",
+    "learn_more": "Learn More",
+    "key_features": "Key Features",
+    "cta_title_detail": "Ready to Start Your Next Project?",
+    "cta_subtitle_detail": "Let's discuss how our specialized solutions can help you achieve your goals. Contact us today for a consultation or quote."
+  },
+  "projects": {
+    "title": "Our Featured Projects",
+    "hero_title": "Our Featured Projects",
+    "hero_image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDt_paji9EXiZo6KoThIf9pI1NkeP7VssLvgY0WPpN8l6y5QicBqxi4237ir_rngEsQcBrJhWq5IG4o-se8yoMs-Ni4PAXkhNprAVgijvad6OE3FqcMplruKEL0I0_iZITekVUDVBdnUZe1f7WBuHOeZuNBldyV1mzJXV0fRIuUwCUzs5wQ7FH1GMAMlrXc7Bsb_G50bUVTSkYmZSlaBBh2H2O-y1TddWHO85UwrPtXa6Q5fVpdSxBOlJU6Nmn3OOGS_3H1Jry9toY",
+    "hero_description": "Jubail Industrial Solutions (JIS) has a growing portfolio of successful projects delivered for key clients in Saudi Arabia’s most vital sectors. Our track record demonstrates our ability to execute complex work safely, on time, and to the highest quality standards. We are proud of the partnerships we build and the results we deliver. While we maintain strict client confidentiality, this showcase highlights some of the challenges we have solved and the measurable value we have provided.",
+    "showcase_title": "Project Showcase",
+    "showcase_subtitle": "Here are some examples of our solutions in action:",
+    "industry_label": "Industry",
+    "service_label": "Service Provided",
+    "project_list": [
+      {
+        "title": "Critical Dewatering for Major Facility Expansion",
+        "industry": "Petrochemical",
+        "service": "Dewatering Services",
+        "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuBlV2XFumWF0tdIv1ktD4My2RGj_Ssr8YzsMk9g8KDSsK0k2FJsOy4Gw9N00m4nWaDHGDzsyJJSxzXZhsqS97rra3UC7hNZufoRwZ0ni6xrTOjwDWAdK7tZk1x6eniyy4S6bQp2Dx47kcYNSxyNvlGNxBfh72UkjboFNe2AHgiAosAeL_RcX0cGNlFuWRRmFsdaAIyAA8UIvN0zApLnt2WXnQajdSPJV8bNi2OvM8v5GoyrladuxRWXN0wQ874OV6Qlp9RmPBe_n7E",
+        "imageAlt": "Asian professionals in PPE operating dewatering pumps at a Saudi industrial site.",
+        "challenge": {
+          "title": "The Challenge",
+          "description": "A major petrochemical client needed to excavate deep foundations for a new process unit, but the high water table at the Jubail site posed a significant risk of flooding, project delays, and safety hazards."
+        },
+        "solution": {
+          "title": "Our Solution",
+          "description": "JIS deployed a comprehensive dewatering system, including high-capacity submersible pumps and wellpoints, engineered specifically for the site's geological conditions. Our 24/7 monitoring ensured the water table remained well below the required excavation depth, allowing civils work to proceed safely and ahead of schedule."
+        }
+      },
+      {
+        "title": "Heat Exchanger Cleaning & Efficiency Restoration",
+        "industry": "Power Generation",
+        "service": "Chemical Cleaning Services",
+        "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuA93QDtKQl_lsbV9XB1FLP1L56pCLtBvTmoKFduVJkaEV4Y0tDt76_faRDs3wVL0IFC7kjEo4TV2388asw7PWAaWd9uakHse_i_MWj8uV9KagoWXYSR1X0GpOOL9rlg1sti78ZHVqGpfNGHlQNb68QWAAJvEeLheVFrsO5rsubseSvPvGYCvOHRVwvS6Jc-bLppFFtMCO7p7ZNKXbSfMcGVxhLL6LSgF2i4TTGz0lq9GXm0U3TvHNtKQ4CS6zNV2yVws3GkDIhOL2s",
+        "imageAlt": "Two engineers in hard hats and safety vests inspecting a large industrial heat exchanger unit.",
+        "challenge": {
+          "title": "The Challenge",
+          "description": "A major power generation facility was experiencing a significant drop in output due to heavy fouling and scaling within its critical heat exchangers, leading to reduced thermal efficiency and increased fuel consumption."
+        },
+        "solution": {
+          "title": "Our Solution",
+          "description": "Our specialized chemical cleaning team formulated and executed a targeted cleaning program using proprietary, environmentally safe chemicals. The process successfully removed all deposits, restoring the heat exchangers to their original design efficiency, which resulted in a measurable increase in power output and significant fuel savings for the client."
+        }
+
+      },
+      {
+        "title": "Streamlined MRO Procurement for Manufacturing",
+        "industry": "Manufacturing",
+        "service": "Trading Services",
+        "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuBt176KTEPIcn4wsisxrcFwB2kxm8pjNREwW6yXjOwJdxSfhEOqOJEKKgeW58cOWpn45epACkI7uYBl9NZRBSlv43UCUzlXni3soVvOtFU1vM50MZ8LiKQeCAdBU7ERWvyWAwYTNLiD3yUqtiORTHVcQehMtvr5-27jRJMmGOzOlFR_8eW0dVmOUtKeg5NJ3Vm0z0nAwJ80r5o_0_gAkZjtAx6QM85Zas1FuvfX0Ri9wc7PIwDWKlqkOgesgIHFQuFaYCbsZ8aLK5c",
+        "imageAlt": "A modern, automated manufacturing facility with robotic arms and conveyor belts in operation.",
+        "challenge": {
+          "title": "The Challenge",
+          "description": "A large manufacturing client was struggling with a complex supply chain, facing delays in acquiring critical MRO (Maintenance, Repair, and Operations) materials from multiple vendors, which impacted production schedules."
+        },
+        "solution": {
+          "title": "Our Solution",
+          "description": "JIS acted as a single-source procurement partner. Leveraging our extensive global network and local expertise, we consolidated their MRO purchasing, optimized logistics, and ensured timely delivery of quality-assured materials. This significantly reduced their administrative burden, minimized downtime, and generated substantial cost savings for the client."
+        }
+      },
+      {
+        "title": "Specialized Manpower for Plant Turnaround",
+        "industry": "Petrochemical",
+        "service": "Manpower Solutions",
+        "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuAnVylcjYhtVR_gOAlGhBU-FqBLcsTNnl2-zEjcKF6s5sKAySDT0d2BLf2chPj2FCz2SWL6-Q34nOTJvhh89cTpWqUB_UzfNW_abO82q6ovoHwpnBYFKwySHTnkaULIgNjWrQPqWGyqlU7OnQADrOdGLJxmb7CeWCxCNmOorHn3AUwpbHa3yCC1eMBV6nnYBj0Qzimg8CBvmRuLd7GH576568Ro6p8Dzoi4AhCSB7qUtcIPs2oY8FaxbIxDaox1ORmirPBqQEJ_kQU",
+        "imageAlt": "A diverse team of industrial workers in full PPE at a safety briefing meeting at a petrochemical plant.",
+        "challenge": {
+          "title": "The Challenge",
+          "description": "For a major scheduled plant turnaround, our client required a large team of certified and experienced technicians, including welders, pipefitters, and safety officers, on a tight deadline to minimize costly plant downtime."
+        },
+        "solution": {
+          "title": "Our Solution",
+          "description": "JIS Manpower Solutions rapidly mobilized a fully vetted and highly skilled team. We handled all aspects of recruitment, certification, mobilization, and on-site management, ensuring the client had the right expertise available exactly when needed. Our proactive approach contributed to the successful and timely completion of the turnaround project."
+        }
+      },
+      {
+        "title": "High-Pressure Hydrojetting for Process Pipelines",
+        "industry": "Oil & Gas (Refinery)",
+        "service": "Hydrojetting Services",
+        "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuCrGi1OK8RzFRfidNJuFqDI8v6j8u-HAnGr0A1rpX5YrJ5RqjmSdd3uWz2Au5I70DR30RuP1Vp2u0dxOLV4IcjwNMfbqVUjQAZvzcHegVkDblC3R-lPaHfbttFqCwpcpV7zRl7o0DzwJuPcDggbUUJGJDEDcspKjW6btvduCngU7juPO3fwhR4PUUSioXTcE_LWHRLm3rqXyPghZ5DP-ZWoZSlhddBJDg4WrPcIKatbRjdYAzRiwIkBOOD0tORkOgXTdHsG8MDi5Ow",
+        "imageAlt": "A technician in protective gear uses a high-pressure hydrojetting hose on industrial pipelines.",
+        "challenge": {
+          "title": "The Challenge",
+          "description": "A refinery was experiencing reduced flow and operational inefficiency due to the buildup of hard, stubborn deposits inside critical process pipelines, which conventional cleaning methods failed to remove."
+        },
+        "solution": {
+          "title": "Our Solution",
+          "description": "JIS deployed state-of-the-art Ultra High-Pressure (UHP) hydrojetting equipment. Our certified operators safely and efficiently removed the deposits using precision-controlled water jets, restoring the pipelines to their full diameter and flow capacity without the use of harsh chemicals, ensuring operational and environmental safety."
+        }
+      }
+    ]
+  },
+  "industries": {
+    "title": "Industries We Serve",
+    "hero_title": "Industries We Serve",
+    "hero_subtitle": "JIS serves a diverse range of industrial sectors throughout Saudi Arabia and the wider region, delivering specialized solutions tailored to meet the unique requirements and challenges of each industry.",
+    "hero_image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDNKEnJ1fr4ZunENusUbiKj5G7RVa2mB83nj4jwDxr4GTLc5N7qPW4mFiEsXurUyX37ulKiDul8de81UbZGKmqExkXGKthP9aSAF9syKhz1ku78NvE62r60q-cbdm35o3CgZcGNRvTbFavIfS4Jt7j2UZOcTqM_hZ0TeYY7jhMhxi5bZp9MnV-0b5Rqe_khI9LxtdR98v9P-E-ydfSp8DV4sODAfbt52KK4OKmeKOBg1-1oCKuNIfN5xN6sbRBYSvXApfD6Ner1B1I",
+    "intro_title": "Customized Solutions for Core Industrial Sectors",
+    "intro_subtitle": "JIS provides adaptable and specialized solutions across a broad spectrum of industries. Our deep understanding of each sector's unique challenges allows us to deliver specialized services and products that drive efficiency, safety, and growth for our clients.",
+    "sector_list": [
+      {
+        "title": "Oil & Gas",
+        "description": "JIS offers comprehensive services and expertise across the upstream, midstream, and downstream segments of the oil and gas industry. We provide vital support for exploration, production, refining, and distribution, ensuring operational excellence and safety at every stage.",
+        "cards": [
+          {
+            "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuDVN_Huw8ljT31Pd0Tgyas8_SrxRtCmOsNZ4VvlQ9MOOocjFH04ymGoZ9qz2wB8qLhHjflhtZEqrohw4q_xgg-NZGPN1Pqe8erB5HO_Yeq8dH32Tlh2jo1RJf9-oj6hMBY7Hk2aMKmxrvrCxzJ8XOgn8rl0lfUEd40QlNxK9c7MHHhPKB0OGBCgRpqOo-eIAehaLGmuVONa5_8Z7vJb2U16rdkZEjwpaoe7yMVYrRwQx8xMSWIN3juPxAIIzznepUXj1hVmTysJ568",
+            "imageAlt": "Offshore oil drilling platform with workers",
+            "caption": "Upstream Support",
+            "subCaption": "Specialized equipment and manpower for exploration and extraction sites."
+          },
+          {
+            "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuB8v1O7ttIVXr_Dv_vByZ7g0tZaLf1GkRHYGSRtKnRnd93CQDRRFaYsVava37gODfiOu7h5t-VYp0bIEw1s0Itx0oAce-8ebhQ0lQLoeGWnxCQulMBZ_aaKG_Tj7rSWUmye8JJTERAWxUt4d01e7b1AAx1GczNPyLgjN9BTS4Wowx5_qAPHTOVHdpUdEFhrbjeTa8oRMxSn2kcpDdCbortU2PwuWXZF9rYpcJyETenK8U3InIs70IJ0pVDNmSezkJniG7TTfQSpz4k",
+            "imageAlt": "An expansive network of pipelines in an industrial zone",
+            "caption": "Midstream Infrastructure",
+            "subCaption": "Maintenance and integrity services for pipelines and storage facilities."
+          },
+          {
+            "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuA5bX7LyOgXOT6i_oaq7dBPQZSAc31s7KMLpFzGa9pPDWiDY42H1ULYoxPoDXFihzJvVL6mOgrwlH04t_R1i-S86SnMzn0N03etYaUtJOrpw4FialJNKb8KLZ0HKxBBuN2zl2ulFZr_zIWlhpZdMn3MKEdofyt379dfKje2Q6YOHMp_eV_aTxnTY3crp5BszvsZi588S9cqKDAOSugzjL8LaHWMmTRrIbeLqLSmbwiyu-uwP0oARMmqMS8JWDrzZEBO68LoXsOQ_Qk",
+            "imageAlt": "A detailed shot of a modern oil refinery complex at night",
+            "caption": "Downstream Refining",
+            "subCaption": "Advanced cleaning, dewatering, and component supply for petrochemical plants."
+          }
+        ]
+      },
+      {
+        "title": "Petrochemical",
+        "description": "Our solutions for the petrochemical industry cover the entire plant operation lifecycle, from maintenance and industrial cleaning to trading of specialized chemicals and equipment, ensuring peak performance and compliance.",
+        "cards": [
+          {
+            "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuDePwvAez4xuOdjnYD-IpJQgSH9wv0zWUQjfXT5BDM9zdWfy_89DNemA8c_NmpozKQ8qHf9TGrwpfO8r4TZcCXH-jSuvLtzHMRTnq4kFhykfO2-6Ak-TZVU_P_DzF7AhiSF5FQXPxOej0mVIp1FFtAL1Ds2Qu5OWwiYGTpU9tUXmqFt7TL0FnSSzFXTkny31tP6YLQGG2qFgWZGcygi609llFTQfGa--yeBvArKvAvdBGPjL1-KRra0U3TtPluWMGD9t6XijtEMDAE",
+            "imageAlt": "Technicians in PPE working inside a petrochemical plant",
+            "caption": "Plant Maintenance",
+            "subCaption": "Comprehensive maintenance services during scheduled and unscheduled shutdowns."
+          },
+          {
+            "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2ap5ZKiLOti2H7QER5PlgLK7kLXCD3QpLby8jxFyI_enIf9Hh7nlfDw7EHjR7s6x52ynITAjBKaZEzPJVlBtUq1yDDSzUNghoipik95uYaSCZx6MFMFsznUig2GF_YnUruP-LIvI8gUrwb0x6YCfXz9Cy-2PTkoZu9v5UmOYRKuv9y7liudebW-rF-GxOR8M72i6NNkuhTcU_noImfV0wGWhBefiV02FMV7cDVkGC1j9Yboi0M4odtg8SDvgymE1_2j3PL9Kput0",
+            "imageAlt": "High-pressure hydrojetting equipment in operation",
+            "caption": "Industrial Cleaning",
+            "subCaption": "High-pressure hydrojetting and chemical circulation for process units."
+          },
+          {
+            "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuDKb7IZKWDS9O9tXhkRa6Tu4dyLUmgwsVlWsWUjHq5PHS63pCO_nRRdE5ejgba5tKpNp-wb75XMSgfEXIA4TlG0QyatW_hhZScdLS7t2agK2ex5Amv2ItAiagAwtEItQUoKIVN7MRxpyTtLu78vhO0PBk0UJ34g1MTM8aMjWOVbnAfC20QOhH9xm-5oXkVfonPizZKdnFkZHgKkaGH4pJ2-bw5Y0G1Zd_JQQLpYuSEHfuxledxqvp4xxmEVEVA51U-2phVP4isQT38",
+            "imageAlt": "A warehouse with specialized industrial pumps and valves on shelves",
+            "caption": "Equipment Trading",
+            "subCaption": "Sourcing and supply of specialized pumps, valves, and catalysts."
+          }
+        ]
+      },
+      {
+        "title": "Power Generation",
+        "description": "JIS provides essential support for both thermal and renewable power plants. Our services include comprehensive maintenance, efficient dewatering solutions, and the supply of specialized components to ensure reliable, uninterrupted power generation.",
+        "cards": [
+          {
+            "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuDFD7ZTVS5w715C-ORcOEWzB91IGRRhPRju2FVaj0lxhqAnvw0kc6UYzinXOc0ryIDmGXvvmTEHwjUdO5yy05Hr-xCO5S5D8BNIL5sG7bk5ZrBBpqIirH4h0BNcHNONMZIrGM0z2sfTaOme5pz0flclTqk18HIXaBlrb4EDFje8SvT3mbrci_P_Eb6MQQDKjFnzBP2vqFdfulNy5LXiB5lKvismyQxsFS_NWpojU-r64609yo_nbvtacS80NdNq9q4S4hQiA5gmQHI",
+            "imageAlt": "An engineer inspecting a large gas turbine in a power station",
+            "caption": "Thermal Plant Support",
+            "subCaption": "Maintenance and component supply for gas and steam turbines."
+          },
+          {
+            "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuBH32rWeZZ9dkUmydi4s7OUrppFq3ukW4Hym3OA-LH8Sefj8QjycFY6H6sC_sUgEtEtFApHcVBd9XyHLg5X5RKS23miISZFnLhvlUppjEHo4BiMPnTPqz6feifZH_KqfwtK3i7TkRh_cGyUywl4fh4diOxJC4mUhrGzBWi7PuoqTHjWJZiNu8bTW9OK_DcAh3gPjgEPcQSAmM_qRuUaPnr79s0KsrLvyuqFH8bn20OZ-xPIPs4_nBMFsLBaMlU5k8t5svHMQn_c9NI",
+            "imageAlt": "A vast solar power farm under the Saudi Arabian sun",
+            "caption": "Renewable Energy",
+            "subCaption": "Services for solar farms and other renewable energy infrastructure."
+          },
+          {
+            "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuBGTX4EuPo3uEGJ0zVwn_QsZ57_DkzU_ICj6-B7ahJ6mAtIv_NSq_s0qOyO-rwP5fx7wCxPfW9ZiSh2lzia6ElWc3GCmTQaKysRTAbLUylciqyldVRwK0XqAD28naRbnXZsH-szSV1NFfTTyVFHjrnpu6zcLFu0SHTW25nmy7LQGSWqgf4LWo79KZP9UGT0DP5oy5wCa9GpGE-dgFn4VFY6dKtKc5HE5ysLrWji79JzsEZtiZVjtV1V-d9VD-TchgODTqYdFm0_kKk",
+            "imageAlt": "An electrical substation with complex power lines",
+            "caption": "Distribution Infrastructure",
+            "subCaption": "Maintenance and support for substations and distribution networks."
+          }
+        ]
+      },
+      {
+        "title": "Water Treatment",
+        "description": "We offer specialized services for industrial and wastewater treatment plants, including desalination facilities. Our expertise covers dewatering, advanced chemical cleaning, and comprehensive waste management solutions to ensure environmental compliance and operational efficiency.",
+        "cards": [
+          {
+            "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuB4n9kOXgbzEp5zwudUrOu-xdAfUyWHS_mU9_pzjtPzKsv5bjTnph_O3u26Nqk2VJEDrZ-EEUD_ADN-8kdJDPXB6TK1VY_JU3LF_cQRptOj6k28NkRvkYibL9vUa1LbSlY106S7M1AtwjLcAGpmRVCgxUIuvtWYoqnuglr8hpcdnZPqWgHLv-jvpj-Sfpyz2Fplfk3nnVT5DXxBKiQU9SjhUp7N_Nu3jNi3AX5-e1QpKwJI4B3NWHa_H17QAB4pZgEr76_eITVu6Xg",
+            "imageAlt": "The interior of a modern desalination plant",
+            "caption": "Desalination Plants",
+            "subCaption": "Maintenance and cleaning services for large-scale desalination facilities."
+          },
+          {
+            "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuA2Mfnjm8qwUm0gIjXKrTBKLtXHoCp_IADNMCYcUjWkeyMglnDYl7SuZg3fwPWojQ7e3xyqfb1KXlBxw6piGBMBripEW3dYAndugFtZqHlczAwma-gNfGq3m1KFiv0lMCfq1iacVgV2Zd-zzPg8a9EiBM_o1Wanlc_2OUoroD8MJ4UIFJGswGJcVI7GLwOyIli_lykh0_pL7sHnsTj5ZKhFB_qUZKnaBOJqbDtSwVcJ-EOh-pyO_eOZ6HMpc3obC891Jm_GGNvG7ds",
+            "imageAlt": "Advanced filtration systems at an industrial water treatment facility",
+            "caption": "Industrial Wastewater",
+            "subCaption": "Filtration, chemical cleaning, and dewatering for industrial effluent."
+          },
+          {
+            "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuBIN0R8xVlVowjLuofKltAXpsj8DSOmmauXOfrzLElTQ1bwP7MCblbXIhnSgspVb6V0VENve5JfitZsabWaSxcwGy2Om1uWAYVG2Vj6nWZU5gF7RWyU3fNYbOGklc6NMevzArC4G-1pVwzBaCcHXGzNj9JGN5_0JOyewe2JEoAUWBWYT0bkD2u3IioJYvt-5qT6xuX0BHv32XUdyb8CGgUioZqgLtCkAHBLUQZD8baivTOg1DYGy_QcnwqMiZ7ZLwxabVzo1h3Eu6k",
+            "imageAlt": "A professional conducting a water quality test in a laboratory",
+            "caption": "Environmental Monitoring",
+            "subCaption": "Water quality analysis and waste management for regulatory compliance."
+          }
+        ]
+      },
+      {
+        "title": "Manufacturing & Construction",
+        "description": "JIS is a key partner for heavy manufacturing and large-scale construction projects across the Kingdom. We provide skilled manpower, effective dewatering services, and reliable supply of construction materials and industrial components to keep projects on schedule and within budget.",
+        "cards": [
+          {
+            "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuAZqZ4oqd5JZ6coAhwPLxtWIAi6Fc_A_Lva_4-aJQE-2hbfvxmZLE8GeNwnHXBmXckxc8QiaH32bmLjpA5ofWCamUUf9z2VDj7YyGJZhmZ4DRbM6tFS2kbio7WzumYn_ukKy2wMQ6dnS22fKfmEjNzSo5_0eHbDYw5Q4JJDdSzG4DLvhLIZVRub4xfesJjS6DgnIYgtLkqms_114fhCpxgYMInekppZRVZXZ1xX7InDWLF5g2P0TYfoNrEhgQ6u_d51RJxDXEpAlT8",
+            "imageAlt": "A team of skilled construction workers on a large-scale building site",
+            "caption": "Skilled Manpower",
+            "subCaption": "Provision of qualified tradesmen and labor for major construction projects."
+          },
+          {
+            "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuDf6oEqFVkg6BWA5VbHmWdXePnxcKI_0EJjGJQD4_OeLr5lfQ6rNpW1jpRptCIfOyFkId2EsbWPuXAX37T_QrSTlcjkmV16QR3nqNDhh_cgCEi_5dgM3_ugFRelFTF2BwMBcEWHqkpzklqTLfS40GUoiGIwXp0UBUZ44FDICDvEPfsEX-RcYWOnvutc4Gpf6U0d0TXpQ37nerNmctRq6wBt_0t9GUZ7M900rDkpySa4HyuG5n3fUhevnAl0PlFhK6932cstvrq72K4",
+            "imageAlt": "Automated robots on a modern heavy manufacturing assembly line",
+            "caption": "Heavy Industry Support",
+            "subCaption": "Equipment and personnel support for steel, cement, and other plants."
+          },
+          {
+            "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuDjqqxEBGsWnrSfJMTFlmiYMkJXgQiIn99Cp3COEfE1_7PEz0XBGJ-pa8IamPvGKwV2J-UfwriOYraLtfwAUdZmqZ-62xd3dFkTGh859oFWJRdfS8X0WwX9OEgJtHgx73Rm7hJqg6Fv1vGsrL5HzxW65dmG_dv2IXM5VhRx42EikCiyQhLNv9bzkfBXtzHLXRqGuBuv7RLLmnvR31s6PACFMbDJIrR7zLeXgbyaKqR6704Y7sZOn-gUkfoCkqvsunc0gxOiJya7GtE",
+            "imageAlt": "Piles of structural steel beams and materials at a construction supply yard",
+            "caption": "Material Supply",
+            "subCaption": "Reliable sourcing and delivery of construction materials and industrial components."
+          }
+        ]
+      }
+    ]
+  },
+  "certifications": {
+    "title": "Our Commitment to HSEQ",
+    "subtitle": "We are proud to hold internationally recognized certifications, reflecting our dedication to operational excellence.",
+    "iso9001_title": "ISO 9001:2015",
+    "iso9001_subtitle": "Quality Management System",
+    "iso9001_desc": "This certification demonstrates our ability to consistently provide services that meet customer and regulatory requirements, with a focus on continual improvement and customer satisfaction.",
+    "iso14001_title": "ISO 14001:2015",
+    "iso14001_subtitle": "Environmental Management System",
+    "iso14001_desc": "We are committed to minimizing our environmental impact. This certification validates our effective system to manage our environmental responsibilities for sustainable and responsible operations.",
+    "iso45001_title": "ISO 45001:2018",
+    "iso45001_subtitle": "Occupational Health and Safety Management System",
+    "iso45001_desc": "The well-being of our employees is our highest priority. This certification validates our robust framework for occupational health and safety to prevent work-related injury and ill health.",
+    "conclusion": "These certifications are a testament to our Integrated Management System and our unwavering commitment to operating at the highest international standards."
+  },
+  "certifications_page": {
+    "page_title": "Our Certifications",
+    "hero_title": "Our Certifications: A Commitment to Excellence",
+    "hero_subtitle": "Jubail Industrial Solutions is committed to upholding the highest international standards in quality, safety, and environmental management, ensuring excellence in every facet of our operations.",
+    "hero_image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuA7yX5p-5oV0XpG5nI6qZ1p7r8j9s0oXk3Yc_v1a2g3h4j5k6l7m8n9o0pXq1r2s3t4u5v6w7x8y9z0a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2g3h4i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6",
+    "intro_title": "Our Internationally Recognized Standards",
+    "standards_list": [
+      {
+        "title": "ISO 9001:2015 – Quality Management System",
+        "description": "This certification demonstrates our ability to consistently provide services that meet customer and regulatory requirements, with a focus on continual improvement and customer satisfaction. It is the bedrock of our commitment to delivering excellence and reliability in every project.",
+        "certificate_image_url": "/assets/images/jis/certs/iso_9001_cert.png",
+        "certificate_image_alt": "ISO 9001:2015 Certificate for JIS",
+        "gallery_images": [
+          { "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBbnjP23P_C87xO4vj7d3g5h1k9l0m2n4o6p8q7r9s0t1u2v3w4x5y6z7a8b9c0d1e2f3g4h5i6j7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z3a4b5c6d7e8f9g0h1i2j3k4l5m6n7o8p9q0r1s2t3u4v5w6x7y8z9a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5", "alt": "Quality control inspection" },
+          { "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCfP23P_C87xO4vj7d3g5h1k9l0m2n4o6p8q7r9s0t1u2v3w4x5y6z7a8b9c0d1e2f3g4h5i6j7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z3a4b5c6d7e8f9g0h1i2j3k4l5m6n7o8p9q0r1s2t3u4v5w6x7y8z9a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5", "alt": "Team reviewing quality metrics" },
+          { "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDbnjP23P_C87xO4vj7d3g5h1k9l0m2n4o6p8q7r9s0t1u2v3w4x5y6z7a8b9c0d1e2f3g4h5i6j7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z3a4b5c6d7e8f9g0h1i2j3k4l5m6n7o8p9q0r1s2t3u4v5w6x7y8z9a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5", "alt": "Precision measurement tools" },
+          { "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBfnjP23P_C87xO4vj7d3g5h1k9l0m2n4o6p8q7r9s0t1u2v3w4x5y6z7a8b9c0d1e2f3g4h5i6j7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z3a4b5c6d7e8f9g0h1i2j3k4l5m6n7o8p9q0r1s2t3u4v5w6x7y8z9a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5", "alt": "Document control system" },
+          { "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCcnjP23P_C87xO4vj7d3g5h1k9l0m2n4o6p8q7r9s0t1u2v3w4x5y6z7a8b9c0d1e2f3g4h5i6j7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z3a4b5c6d7e8f9g0h1i2j3k4l5m6n7o8p9q0r1s2t3u4v5w6x7y8z9a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5", "alt": "Client satisfaction survey" }
+        ]
+      },
+      {
+        "title": "ISO 45001:2018 – Occupational Health and Safety Management System",
+        "description": "The well-being of our employees is our highest priority. This certification validates our robust framework for occupational health and safety to prevent work-related injury and ill health. We are committed to creating a 'zero harm' culture through proactive risk assessment, continuous training, and strict adherence to safety protocols.",
+        "certificate_image_url": "/assets/images/jis/certs/iso_45001_cert.png",
+        "certificate_image_alt": "ISO 45001:2018 Certificate for JIS",
+        "gallery_images": [
+          { "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBcnjP23P_C87xO4vj7d3g5h1k9l0m2n4o6p8q7r9s0t1u2v3w4x5y6z7a8b9c0d1e2f3g4h5i6j7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z3a4b5c6d7e8f9g0h1i2j3k4l5m6n7o8p9q0r1s2t3u4v5w6x7y8z9a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5", "alt": "Safety briefing meeting" },
+          { "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCfnjP23P_C87xO4vj7d3g5h1k9l0m2n4o6p8q7r9s0t1u2v3w4x5y6z7a8b9c0d1e2f3g4h5i6j7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z3a4b5c6d7e8f9g0h1i2j3k4l5m6n7o8p9q0r1s2t3u4v5w6x7y8z9a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5", "alt": "Worker wearing full PPE" },
+          { "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDbnjP23P_C87xO4vj7d3g5h1k9l0m2n4o6p8q7r9s0t1u2v3w4x5y6z7a8b9c0d1e2f3g4h5i6j7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z3a4b5c6d7e8f9g0h1i2j3k4l5m6n7o8p9q0r1s2t3u4v5w6x7y8z9a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5", "alt": "Emergency response drill" },
+          { "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBfnjP23P_C87xO4vj7d3g5h1k9l0m2n4o6p8q7r9s0t1u2v3w4x5y6z7a8b9c0d1e2f3g4h5i6j7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z3a4b5c6d7e8f9g0h1i2j3k4l5m6n7o8p9q0r1s2t3u4v5w6x7y8z9a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5", "alt": "Safety signage on site" },
+          { "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCcnjP23P_C87xO4vj7d3g5h1k9l0m2n4o6p8q7r9s0t1u2v3w4x5y6z7a8b9c0d1e2f3g4h5i6j7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z3a4b5c6d7e8f9g0h1i2j3k4l5m6n7o8p9q0r1s2t3u4v5w6x7y8z9a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5", "alt": "Risk assessment process" }
+        ]
+      },
+      {
+        "title": "ISO 14001:2015 – Environmental Management System",
+        "description": "We are committed to minimizing our environmental impact. This certification validates our effective system to manage our environmental responsibilities for sustainable and responsible operations. It guides our efforts in resource conservation, pollution prevention, and compliance with all environmental regulations.",
+        "certificate_image_url": "/assets/images/jis/certs/iso_14001_cert.png",
+        "certificate_image_alt": "ISO 14001:2015 Certificate for JIS",
+        "gallery_images": [
+          { "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDbnjP23P_C87xO4vj7d3g5h1k9l0m2n4o6p8q7r9s0t1u2v3w4x5y6z7a8b9c0d1e2f3g4h5i6j7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z3a4b5c6d7e8f9g0h1i2j3k4l5m6n7o8p9q0r1s2t3u4v5w6x7y8z9a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5", "alt": "Waste segregation bins" },
+          { "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCfnjP23P_C87xO4vj7d3g5h1k9l0m2n4o6p8q7r9s0t1u2v3w4x5y6z7a8b9c0d1e2f3g4h5i6j7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z3a4b5c6d7e8f9g0h1i2j3k4l5m6n7o8p9q0r1s2t3u4v5w6x7y8z9a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5", "alt": "Water recycling system" },
+          { "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBcnjP23P_C87xO4vj7d3g5h1k9l0m2n4o6p8q7r9s0t1u2v3w4x5y6z7a8b9c0d1e2f3g4h5i6j7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z3a4b5c6d7e8f9g0h1i2j3k4l5m6n7o8p9q0r1s2t3u4v5w6x7y8z9a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5", "alt": "Energy efficiency audit" },
+          { "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBfnjP23P_C87xO4vj7d3g5h1k9l0m2n4o6p8q7r9s0t1u2v3w4x5y6z7a8b9c0d1e2f3g4h5i6j7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z3a4b5c6d7e8f9g0h1i2j3k4l5m6n7o8p9q0r1s2t3u4v5w6x7y8z9a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5", "alt": "Spill prevention measures" },
+          { "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCfP23P_C87xO4vj7d3g5h1k9l0m2n4o6p8q7r9s0t1u2v3w4x5y6z7a8b9c0d1e2f3g4h5i6j7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z3a4b5c6d7e8f9g0h1i2j3k4l5m6n7o8p9q0r1s2t3u4v5w6x7y8z9a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5", "alt": "Environmental impact assessment" }
+        ]
+      }
+    ]
+  },
+  "downloads": {
+    "title": "Company Downloads",
+    "subtitle": "Access our official documents, policies, and company profile.",
+    "download_button": "Download",
+    "item1_title": "JIS Company Profile",
+    "item1_desc": "Get a comprehensive overview of our company, services, and values.",
+    "item2_title": "HSE Policy",
+    "item2_desc": "Our commitment to the highest standards of Health, Safety, and Environment.",
+    "item3_title": "Environmental Policy",
+    "item3_desc": "Read about our dedication to sustainable and eco-friendly operations.",
+    "item4_title": "Quality Policy",
+    "item4_desc": "Learn about our framework for delivering excellence and quality assurance.",
+    "item5_title": "ISO Certifications",
+    "item5_desc": "View our ISO 9001, 14001, and 45001 certificates."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We're here to help. Reach out to us for any inquiries or to discuss your project needs.",
+    "location_title": "Our Location",
+    "location_desc": "Jubail Industrial City, Kingdom of Saudi Arabia",
+    "email_title": "Email Us",
+    "email_address": "info@jis-saudi.com",
+    "call_title": "Call Us",
+    "whatsapp_title": "WhatsApp",
+    "quote_form_title": "Send Us a Message",
+    "quote_form_subtitle": "Fill out the form below and our team will get back to you shortly.",
+    "form_name": "Full Name*",
+    "form_company": "Company Name*",
+    "form_email": "Email Address*",
+    "form_phone": "Phone Number",
+    "form_service_placeholder": "Select a Service of Interest*",
+    "form_message": "Your Message / Inquiry*",
+    "form_submit": "Send Message",
+    "location_map_title": "Our Main Office",
+    "location_map_subtitle": "Find us in the heart of Jubail Industrial City."
+  },
+  "request_quote": {
+    "title": "Request a Quote",
+    "subtitle": "Let us provide a tailored solution for your industrial needs. Fill out the form below with your project details, and our team will get back to you with a comprehensive quote.",
+    "form_name_label": "Full Name*",
+    "form_company_label": "Company Name*",
+    "form_email_label": "Email Address*",
+    "form_phone_label": "Phone Number",
+    "form_service_label": "Service of Interest*",
+    "form_service_placeholder": "Please select a service",
+    "form_service_other": "Other",
+    "form_message_label": "Project Details / Message*",
+    "form_submit": "Submit Quote Request",
+    "direct_contact_title": "Or Contact Us Directly",
+    "direct_contact_subtitle": "Prefer to speak with someone? Feel free to reach out through one of our direct channels.",
+    "email_title": "Email",
+    "call_title": "Phone",
+    "whatsapp_title": "WhatsApp",
+    "visit_title": "Visit Us"
+  },
+  "form": {
+    "submitting": "Submitting...",
+    "success_message": "Thank you! Your message has been sent successfully. We will get back to you shortly.",
+    "error_message": "Sorry, there was an error sending your message. Please try again later."
+  },
+  "captcha": {
+    "instruction": "Please solve the math problem to verify you're human.",
+    "refresh": "Get new numbers"
+  },
+  "privacy_policy": {
+    "title": "Privacy Policy",
+    "last_updated": "Last updated: July 25, 2024",
+    "intro": "Jubail Industrial Solutions Co. ('us', 'we', or 'our') operates the https://www.jis-saudi.com website (the 'Service'). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.",
+    "collection_title": "Information Collection and Use",
+    "collection_p1": "We collect several different types of information for various purposes to provide and improve our Service to you. Types of Data Collected include:",
+    "collection_list": [
+      "Personal Data: While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ('Personal Data'). This may include, but is not limited to: email address, first and last name, phone number, and company name.",
+      "Usage Data: We may also collect information on how the Service is accessed and used ('Usage Data').",
+      "Tracking & Cookies Data: We use cookies and similar tracking technologies to track the activity on our Service and hold certain information."
+    ],
+    "use_title": "Use of Data",
+    "use_p1": "Jubail Industrial Solutions Co. uses the collected data for various purposes:",
+    "use_list": [
+      "To provide and maintain our Service",
+      "To notify you about changes to our Service",
+      "To provide customer support",
+      "To gather analysis or valuable information so that we can improve our Service",
+      "To monitor the usage of our Service",
+      "To detect, prevent and address technical issues"
+    ],
+    "security_title": "Security of Data",
+    "security_p1": "The security of your data is important to us, but remember that no method of transmission over the Internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.",
+    "providers_title": "Service Providers",
+    "providers_p1": "We may employ third-party companies and individuals to facilitate our Service ('Service Providers'), to provide the Service on our behalf, or to assist us in analyzing how our Service is used. These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.",
+    "changes_title": "Changes to This Privacy Policy",
+    "changes_p1": "We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.",
+    "contact_title": "Contact Us",
+    "contact_p1": "If you have any questions about this Privacy Policy, please contact us by email: info@jis-saudi.com"
+  },
+  "terms": {
+    "title": "Terms of Use",
+    "last_updated": "Last updated: July 25, 2024",
+    "intro": "Welcome to Jubail Industrial Solutions Co. ('JIS', 'we', 'us', or 'our'). By accessing or using our website, you agree to be bound by these Terms of Use. Please read them carefully.",
+    "ip_title": "Intellectual Property",
+    "ip_p1": "The content on this website, including text, graphics, logos, and images, is the property of JIS and is protected by copyright and other intellectual property laws. You may not reproduce, distribute, or otherwise use any content without our express written permission.",
+    "links_title": "Third-Party Links",
+    "links_p1": "Our website may contain links to third-party websites that are not owned or controlled by JIS. We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third-party websites.",
+    "disclaimer_title": "Disclaimer of Warranties",
+    "disclaimer_p1": "This website is provided 'as is' without any warranties, express or implied. JIS makes no representations or warranties in relation to this website or the information and materials provided. We do not warrant that this website will be constantly available, or available at all.",
+    "law_title": "Governing Law",
+    "law_p1": "These Terms of Use will be governed by and construed in accordance with the laws of the Kingdom of Saudi Arabia, and any disputes relating to these terms will be subject to the exclusive jurisdiction of the courts of Saudi Arabia.",
+    "changes_title": "Changes to These Terms",
+    "changes_p1": "We reserve the right to modify these Terms of Use at any time. We will post the revised terms on this page. By continuing to use the website after we post any changes, you accept the modified terms.",
+    "contact_title": "Contact Us",
+    "contact_p1": "If you have any questions about these Terms of Use, please contact us at info@jis-saudi.com."
+  },
+  "sitemap": {
+    "title": "Sitemap",
+    "subtitle": "Navigate through our website using the sitemap below.",
+    "main_pages": "Main Pages",
+    "our_services": "Our Services",
+    "resources": "Resources"
+  },
+  "hseq": {
+    "title": "Health, Safety, Environment & Quality (HSEQ)",
+    "subtitle": "Our integrated approach to HSEQ is the cornerstone of our operational excellence and corporate responsibility.",
+    "intro_p1": "At Jubail Industrial Solutions, our commitment to Health, Safety, the Environment, and Quality (HSEQ) is unwavering. It is an integral part of our business philosophy and a core value that guides our daily operations, strategic planning, and client relationships. We believe that all incidents are preventable and that excellence in HSEQ is key to our long-term success.",
+    "quality_title": "Quality",
+    "quality_desc": "We are dedicated to exceeding client expectations by delivering services and products of the highest standard, driven by a culture of continuous improvement.",
+    "hse_title": "Health & Safety",
+    "hse_desc": "The safety and well-being of our employees, clients, and community is our top priority. We foster a proactive safety culture to achieve our goal of zero harm.",
+    "env_title": "Environment",
+    "env_desc": "We are committed to protecting the environment by minimizing our operational footprint and promoting sustainable practices in all our activities.",
+    "read_policy": "Read Policy",
+    "certs_title": "Our Certifications",
+    "certs_desc": "Our commitment to HSEQ is validated by our adherence to internationally recognized standards."
+  },
+  "careers": {
+    "page_title": "Careers",
+    "hero_title": "Join Our Team of Innovators",
+    "hero_subtitle": "Be part of a company that is driving industrial progress in the Kingdom of Saudi Arabia.",
+    "hero_image_url": "https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "why_build_title": "Why Build Your Career with JIS?",
+    "why_build_subtitle": "We are committed to fostering a supportive and inclusive work environment where talent can thrive. We invest in our people, providing opportunities for growth, advancement, and professional development.",
+    "benefits": [
+      { "icon": "school", "title": "Professional Growth", "description": "Opportunities for continuous learning and career advancement." },
+      { "icon": "health_and_safety", "title": "Health & Wellness", "description": "Comprehensive benefits packages to support you and your family." },
+      { "icon": "groups", "title": "Collaborative Culture", "description": "Join a diverse, innovative team that values teamwork." },
+      { "icon": "trending_up", "title": "Impactful Projects", "description": "Work on projects that shape the future of industry in the Kingdom." }
+    ],
+    "culture_title": "Our Culture: Driven by Values",
+    "culture_subtitle": "Our core values are our compass, guiding our actions, decisions, and behaviors as we work together to achieve our vision.",
+    "values": [
+      { "letter": "J", "icon": "rocket_launch", "title": "Journey of Excellence", "description": "We are on a continuous journey of improvement, striving for the highest standards in every aspect of our operations." },
+      { "letter": "I", "icon": "lightbulb", "title": "Innovation", "description": "We embrace creativity and cutting-edge technology to pioneer innovative solutions that address the evolving challenges of the industrial sector." },
+      { "letter": "S", "icon": "shield", "title": "Safety & Sustainability", "description": "We are uncompromising in our commitment to the safety of our people and the sustainability of our environment, ensuring a secure and prosperous future." }
+    ],
+    "life_at_jis": {
+      "title": "Life at JIS",
+      "subtitle": "Explore our collaborative and innovative work environment.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "alt": "A group of JIS employees collaborating around a table with technical drawings."
+        },
+        {
+          "url": "https://images.pexels.com/photos/4348401/pexels-photo-4348401.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "alt": "A JIS project manager with a hard hat on a construction site, looking at plans on a tablet."
+        },
+        {
+          "url": "https://images.pexels.com/photos/3862601/pexels-photo-3862601.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "alt": "Two technicians discussing safety procedures next to industrial machinery."
+        },
+        {
+          "url": "https://images.pexels.com/photos/2228561/pexels-photo-2228561.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "alt": "An aerial shot of a large, modern JIS facility or project site."
+        }
+      ]
+    },
+    "cta_title": "Ready to Join Our Team?",
+    "cta_p1": "If you are passionate about industrial excellence and committed to safety and quality, we invite you to explore the opportunities at JIS.",
+    "cta_p2_strong": "Send your CV and a cover letter to:",
+    "cta_email": "careers@jis-saudi.com",
+    "cta_conclusion": "We look forward to welcoming new talent to our growing family."
+  },
+  "live_chat": {
+    "header": "JIS Live Assistant",
+    "welcome_message": "Welcome to Jubail Industrial Solutions! How can I assist you today?",
+    "input_placeholder": "Type your message...",
+    "input_placeholder_waiting": "Waiting for response...",
+    "thinking": "Thinking",
+    "open_chat": "Open Live Chat"
+  },
+  "cookie_manager": {
+    "banner_message": "We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking \"Accept All\", you consent to our use of cookies.",
+    "banner_customize": "Customize",
+    "banner_accept_all": "Accept All",
+    "modal_title": "Cookie Consent Preferences",
+    "modal_intro": "We use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below.",
+    "modal_manage_consent": "Manage consent preferences",
+    "always_active": "Always Active",
+    "modal_reject_all": "Reject All",
+    "modal_save_preferences": "Save My Preferences",
+    "modal_accept_all": "Accept All",
+    "categories": {
+      "necessary": {
+        "title": "Necessary",
+        "description": "Necessary cookies are required to enable the basic features of this site, such as providing secure log-in or adjusting your consent preferences. These cookies do not store any personally identifiable data."
+      },
+      "performance": {
+        "title": "Performance",
+        "description": "Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors."
+      },
+      "functional": {
+        "title": "Functional",
+        "description": "Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features."
+      },
+      "targeting": {
+        "title": "Targeting / Advertising",
+        "description": "Targeting cookies are used to provide visitors with customized advertisements based on the pages you visited previously and to analyze the effectiveness of the ad campaigns."
+      }
+    }
+  },
+  "cookie_policy_page": {
+    "title": "Cookie Policy",
+    "last_updated": "Last Updated: July 25, 2024",
+    "intro": "This Cookie Policy explains what cookies are and how we use them. You should read this policy to understand what types of cookies we use, the information we collect using cookies, and how that information is used. For further information on how we use, store, and keep your personal data secure, see our Privacy Policy.",
+    "what_are_cookies": "What are cookies?",
+    "what_are_cookies_p1": "Cookies are small text files that are stored on your device when you visit a website. They help the website to remember information about your visit, which can make it easier to visit the site again and make the site more useful to you.",
+    "why_we_use_cookies": "Why do we use cookies?",
+    "why_we_use_cookies_p1": "We use cookies for several reasons, detailed below. Primarily, they are essential for the core functionality of our site, such as remembering your language preference and managing your cookie consent choices. We also use them to gather anonymous analytics data to help us improve our website and understand how visitors interact with it.",
+    "cookies_we_use": "Cookies We Use",
+    "table_name": "Name",
+    "table_provider": "Provider",
+    "table_purpose": "Purpose",
+    "table_duration": "Duration",
+    "table_type": "Type",
+    "cookies_data": [
+      {
+        "category_key": "necessary",
+        "category_title": "Necessary Cookies",
+        "category_description": "These cookies are essential for the website to function properly. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences or filling in forms.",
+        "cookies": [
+          { "name": "jis_consent", "provider": "jis-saudi.com", "purpose": "Stores the user's cookie consent state for the current domain.", "duration": "1 Year", "type": "HTTP" },
+          { "name": "i18next", "provider": "jis-saudi.com", "purpose": "Stores the user's selected language preference.", "duration": "Session", "type": "HTTP" }
+        ]
+      },
+      {
+        "category_key": "performance",
+        "category_title": "Performance Cookies",
+        "category_description": "These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous.",
+        "cookies": [
+           { "name": "_ga", "provider": "Google Analytics", "purpose": "Used to distinguish users for analytics tracking.", "duration": "2 Years", "type": "HTTP" },
+           { "name": "_gid", "provider": "Google Analytics", "purpose": "Used to distinguish users.", "duration": "24 Hours", "type": "HTTP" },
+           { "name": "_gat", "provider": "Google Analytics", "purpose": "Used to throttle request rate.", "duration": "1 Minute", "type": "HTTP" }
+        ]
+      }
+    ]
+  },
+  "cookie_scanner": {
+    "title": "Cookie Scanner Tool (Admin)",
+    "subtitle": "A utility to scan a website and generate a cookie policy JSON.",
+    "form_label": "Website URL",
+    "form_placeholder": "e.g., https://www.example.com",
+    "button_scan": "Scan Now",
+    "button_scanning": "Scanning...",
+    "results_title": "Scan Results",
+    "no_results": "Scan a URL to see the detected cookies here.",
+    "json_title": "Generated Policy JSON",
+    "json_instructions": "Copy the JSON below and paste it into the 'cookie_policy_page.cookies_data' key in your translation files.",
+    "copy_button": "Copy",
+    "copy_success": "Copied!"
+  }
+}

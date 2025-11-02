@@ -1,0 +1,378 @@
+{
+  "home": [
+    {
+      "file_name": "hero-slider-1.jpg",
+      "path": "/assets/images/jis/home/hero-slider-1.jpg",
+      "alt_text": "JIS engineers collaborating at a modern industrial plant.",
+      "caption": "Delivering reliable, innovative & sustainable industrial solutions.",
+      "section": "Hero Slider"
+    },
+    {
+      "file_name": "hero-slider-2.jpg",
+      "path": "/assets/images/jis/home/hero-slider-2.jpg",
+      "alt_text": "A technician wearing PPE inspecting high-tech control panels.",
+      "caption": "Commitment to the highest standards of safety and quality.",
+      "section": "Hero Slider"
+    },
+    {
+      "file_name": "hero-slider-3.jpg",
+      "path": "/assets/images/jis/home/hero-slider-3.jpg",
+      "alt_text": "Panoramic view of a large-scale construction project in Saudi Arabia at dusk.",
+      "caption": "Powering major projects across the Kingdom.",
+      "section": "Hero Slider"
+    },
+    {
+      "file_name": "hero-slider-4.jpg",
+      "path": "/assets/images/jis/home/hero-slider-4.jpg",
+      "alt_text": "Close-up of industrial pipelines with a blurred refinery in the background.",
+      "caption": "Your trusted industrial partner in Saudi Arabia.",
+      "section": "Hero Slider"
+    }
+  ],
+  "about": [
+    {
+      "file_name": "team-meeting.jpg",
+      "path": "/assets/images/jis/about/team-meeting.jpg",
+      "alt_text": "A diverse team of Saudi and Asian engineers in a discussion at a JIS facility.",
+      "caption": "Our team of seasoned professionals brings a wealth of experience.",
+      "section": "About Us"
+    },
+    {
+      "file_name": "ceo.jpg",
+      "path": "/assets/images/jis/about/ceo.jpg",
+      "alt_text": "Portrait of the Chief Executive Manager of JIS.",
+      "caption": "Eng. Abdullah Al-Qahtani, Chief Executive Manager.",
+      "section": "About Us"
+    }
+  ],
+  "services": {
+    "trading": [
+      {
+        "file_name": "flow_meter_display.jpg",
+        "path": "/assets/images/jis/services/trading/flow_meter_display.jpg",
+        "alt_text": "Technician monitoring a digital flow meter display in a control room.",
+        "caption": "Advanced flow meters for precise industrial measurement.",
+        "section": "Trading Services"
+      },
+      {
+        "file_name": "pressure_transmitter_installation.jpg",
+        "path": "/assets/images/jis/services/trading/pressure_transmitter_installation.jpg",
+        "alt_text": "Engineer installing a pressure transmitter on a pipeline.",
+        "caption": "Reliable pressure transmitters for critical process control.",
+        "section": "Trading Services"
+      },
+      {
+        "file_name": "industrial_drives_panel.jpg",
+        "path": "/assets/images/jis/services/trading/industrial_drives_panel.jpg",
+        "alt_text": "An open control panel showing multiple industrial drives and wiring.",
+        "caption": "High-performance industrial drives and automation systems.",
+        "section": "Trading Services"
+      },
+      {
+        "file_name": "control_instruments_team.jpg",
+        "path": "/assets/images/jis/services/trading/control_instruments_team.jpg",
+        "alt_text": "Two technicians inspecting control instruments at a petrochemical plant.",
+        "caption": "Comprehensive range of control and automation instruments.",
+        "section": "Trading Services"
+      },
+      {
+        "file_name": "warehouse_engineer_checking_parts.jpg",
+        "path": "/assets/images/jis/services/trading/warehouse_engineer_checking_parts.jpg",
+        "alt_text": "An engineer in a warehouse checking inventory of mechanical fittings.",
+        "caption": "Extensive stock of mechanical fittings and spare parts.",
+        "section": "Trading Services"
+      }
+    ],
+    "dewatering": [
+      {
+        "file_name": "wellpoint_pump_operation.jpg",
+        "path": "/assets/images/jis/services/dewatering/wellpoint_pump_operation.jpg",
+        "alt_text": "A wellpoint dewatering pump in operation at a construction site.",
+        "caption": "Effective wellpoint systems for groundwater control.",
+        "section": "Dewatering"
+      },
+      {
+        "file_name": "deepwell_pumping_system.jpg",
+        "path": "/assets/images/jis/services/dewatering/deepwell_pumping_system.jpg",
+        "alt_text": "Installation of a deepwell submersible pump for a large-scale project.",
+        "caption": "Deepwell pumping systems for significant water table drawdown.",
+        "section": "Dewatering"
+      },
+      {
+        "file_name": "sump_pumping_team.jpg",
+        "path": "/assets/images/jis/services/dewatering/sump_pumping_team.jpg",
+        "alt_text": "A team of workers managing a sump pumping operation in an excavation.",
+        "caption": "Reliable sump pumping for surface water management.",
+        "section": "Dewatering"
+      },
+      {
+        "file_name": "water_management_site.jpg",
+        "path": "/assets/images/jis/services/dewatering/water_management_site.jpg",
+        "alt_text": "Aerial view of a large construction site with an active dewatering system.",
+        "caption": "Comprehensive water management solutions for major projects.",
+        "section": "Dewatering"
+      },
+      {
+        "file_name": "monitoring_station_night.jpg",
+        "path": "/assets/images/jis/services/dewatering/monitoring_station_night.jpg",
+        "alt_text": "A dewatering monitoring station with gauges lit up at night.",
+        "caption": "24/7 monitoring to ensure optimal system performance.",
+        "section": "Dewatering"
+      }
+    ],
+    "hydrojetting": [
+      {
+        "file_name": "high_pressure_cleaning_pipeline.jpg",
+        "path": "/assets/images/jis/services/hydrojetting/high_pressure_cleaning_pipeline.jpg",
+        "alt_text": "A technician in full PPE using a high-pressure hydrojetting lance to clean an industrial pipeline.",
+        "caption": "High-pressure cleaning removes the toughest deposits from pipelines.",
+        "section": "Hydrojetting"
+      },
+      {
+        "file_name": "tank_cleaning_operations.jpg",
+        "path": "/assets/images/jis/services/hydrojetting/tank_cleaning_operations.jpg",
+        "alt_text": "Automated hydrojetting tool cleaning the inside of a large storage tank.",
+        "caption": "Safe and efficient tank cleaning operations with automated tools.",
+        "section": "Hydrojetting"
+      },
+      {
+        "file_name": "heat_exchanger_maintenance.jpg",
+        "path": "/assets/images/jis/services/hydrojetting/heat_exchanger_maintenance.jpg",
+        "alt_text": "A bundle of heat exchanger tubes being cleaned with hydrojetting.",
+        "caption": "Restoring heat exchanger efficiency with precise hydrojetting.",
+        "section": "Hydrojetting"
+      },
+      {
+        "file_name": "surface_preparation.jpg",
+        "path": "/assets/images/jis/services/hydrojetting/surface_preparation.jpg",
+        "alt_text": "Hydrojetting being used for concrete surface preparation before recoating.",
+        "caption": "Effective surface preparation for maintenance and repair.",
+        "section": "Hydrojetting"
+      },
+      {
+        "file_name": "jetting_vehicle_site.jpg",
+        "path": "/assets/images/jis/services/hydrojetting/jetting_vehicle_site.jpg",
+        "alt_text": "A specialized hydrojetting truck on-site at an industrial facility.",
+        "caption": "Our fleet of mobile hydrojetting units ready for deployment.",
+        "section": "Hydrojetting"
+      }
+    ],
+    "chemical_cleaning": [
+      {
+        "file_name": "boiler_cleaning_team.jpg",
+        "path": "/assets/images/jis/services/chemical-cleaning/boiler_cleaning_team.jpg",
+        "alt_text": "A team of technicians in chemical-resistant suits preparing for a boiler chemical cleaning.",
+        "caption": "Specialized chemical cleaning to restore boiler performance.",
+        "section": "Chemical Cleaning"
+      },
+      {
+        "file_name": "process_system_decontamination.jpg",
+        "path": "/assets/images/jis/services/chemical-cleaning/process_system_decontamination.jpg",
+        "alt_text": "Pipes and pumps connected for a closed-loop chemical cleaning process.",
+        "caption": "System decontamination for improved operational efficiency.",
+        "section": "Chemical Cleaning"
+      },
+      {
+        "file_name": "chemical_storage_safety.jpg",
+        "path": "/assets/images/jis/services/chemical-cleaning/chemical_storage_safety.jpg",
+        "alt_text": "Safely stored and labeled chemical containers on a project site.",
+        "caption": "Adherence to the highest safety standards in chemical handling.",
+        "section": "Chemical Cleaning"
+      },
+      {
+        "file_name": "technician_monitoring_pH.jpg",
+        "path": "/assets/images/jis/services/chemical-cleaning/technician_monitoring_pH.jpg",
+        "alt_text": "A technician taking a sample and monitoring the pH level during a cleaning operation.",
+        "caption": "Continuous monitoring ensures a safe and effective cleaning process.",
+        "section": "Chemical Cleaning"
+      },
+      {
+        "file_name": "precommissioning_plant.jpg",
+        "path": "/assets/images/jis/services/chemical-cleaning/precommissioning_plant.jpg",
+        "alt_text": "A new industrial plant undergoing pre-commissioning chemical cleaning.",
+        "caption": "Pre-commissioning cleaning ensures a smooth start-up for new facilities.",
+        "section": "Chemical Cleaning"
+      }
+    ],
+    "waste_management": [
+      {
+        "file_name": "waste_transport_truck.jpg",
+        "path": "/assets/images/jis/services/waste-management/waste_transport_truck.jpg",
+        "alt_text": "A licensed vacuum truck for transporting industrial waste.",
+        "caption": "A modern fleet for safe and compliant waste transportation.",
+        "section": "Waste Management"
+      },
+      {
+        "file_name": "recycling_sorting_plant.jpg",
+        "path": "/assets/images/jis/services/waste-management/recycling_sorting_plant.jpg",
+        "alt_text": "An industrial waste sorting and recycling facility.",
+        "caption": "Promoting sustainability through waste segregation and recycling.",
+        "section": "Waste Management"
+      },
+      {
+        "file_name": "hazardous_material_storage.jpg",
+        "path": "/assets/images/jis/services/waste-management/hazardous_material_storage.jpg",
+        "alt_text": "Securely contained drums of hazardous waste in a designated storage area.",
+        "caption": "Safe and secure handling of hazardous materials.",
+        "section": "Waste Management"
+      },
+      {
+        "file_name": "landfill_compliance_audit.jpg",
+        "path": "/assets/images/jis/services/waste-management/landfill_compliance_audit.jpg",
+        "alt_text": "An environmental officer conducting a compliance audit at a landfill.",
+        "caption": "Ensuring full compliance with all environmental regulations.",
+        "section": "Waste Management"
+      },
+      {
+        "file_name": "eco_friendly_operation.jpg",
+        "path": "/assets/images/jis/services/waste-management/eco_friendly_operation.jpg",
+        "alt_text": "Waste being processed in an eco-friendly treatment facility.",
+        "caption": "Eco-friendly operations for a sustainable future.",
+        "section": "Waste Management"
+      }
+    ],
+    "manpower": [
+      {
+        "file_name": "group_of_engineers_site.jpg",
+        "path": "/assets/images/jis/services/manpower/group_of_engineers_site.jpg",
+        "alt_text": "A group of diverse, skilled engineers and technicians at a Saudi industrial site.",
+        "caption": "Providing skilled and certified technical professionals.",
+        "section": "Manpower Solutions"
+      },
+      {
+        "file_name": "hse_supervision_team.jpg",
+        "path": "/assets/images/jis/services/manpower/hse_supervision_team.jpg",
+        "alt_text": "An HSE supervisor leading a toolbox talk with a team of workers.",
+        "caption": "Expert HSE supervision to ensure a safe working environment.",
+        "section": "Manpower Solutions"
+      },
+      {
+        "file_name": "project_management_meeting.jpg",
+        "path": "/assets/images/jis/services/manpower/project_management_meeting.jpg",
+        "alt_text": "A project management team in a meeting reviewing blueprints.",
+        "caption": "Experienced project management and supervision personnel.",
+        "section": "Manpower Solutions"
+      },
+      {
+        "file_name": "training_session_industrial.jpg",
+        "path": "/assets/images/jis/services/manpower/training_session_industrial.jpg",
+        "alt_text": "A training session for industrial technicians on new equipment.",
+        "caption": "Commitment to continuous training and skill development.",
+        "section": "Manpower Solutions"
+      },
+      {
+        "file_name": "skilled_technicians_team.jpg",
+        "path": "/assets/images/jis/services/manpower/skilled_technicians_team.jpg",
+        "alt_text": "A team of smiling and confident skilled technicians in uniform.",
+        "caption": "A reliable and competent workforce for your projects.",
+        "section": "Manpower Solutions"
+      }
+    ]
+  },
+  "industries": [
+    {
+      "file_name": "oil-and-gas-refinery.jpg",
+      "path": "/assets/images/jis/industries/oil-and-gas-refinery.jpg",
+      "alt_text": "A large oil and gas refinery at sunset in Saudi Arabia.",
+      "caption": "Serving the Oil & Gas sector with critical maintenance and supply services.",
+      "section": "Industries"
+    },
+    {
+      "file_name": "petrochemical-plant.jpg",
+      "path": "/assets/images/jis/industries/petrochemical-plant.jpg",
+      "alt_text": "Complex network of pipes at a modern petrochemical plant.",
+      "caption": "Specialized solutions for the Petrochemical industry.",
+      "section": "Industries"
+    },
+    {
+      "file_name": "construction-site.jpg",
+      "path": "/assets/images/jis/industries/construction-site.jpg",
+      "alt_text": "Heavy machinery and cranes at a large-scale construction site.",
+      "caption": "Supporting the Construction sector with dewatering and manpower solutions.",
+      "section": "Industries"
+    },
+    {
+      "file_name": "power-plant.jpg",
+      "path": "/assets/images/jis/industries/power-plant.jpg",
+      "alt_text": "A power generation plant with transmission lines.",
+      "caption": "Ensuring reliability and efficiency for the Power sector.",
+      "section": "Industries"
+    },
+    {
+      "file_name": "water-treatment-plant.jpg",
+      "path": "/assets/images/jis/industries/water-treatment-plant.jpg",
+      "alt_text": "An industrial water treatment facility with large clarification tanks.",
+      "caption": "Providing advanced solutions for the Water Treatment sector.",
+      "section": "Industries"
+    },
+    {
+      "file_name": "manufacturing-plant.jpg",
+      "path": "/assets/images/jis/industries/manufacturing-plant.jpg",
+      "alt_text": "Interior of a modern manufacturing plant with automated machinery.",
+      "caption": "Supporting the Manufacturing sector with reliable services.",
+      "section": "Industries"
+    }
+  ],
+  "projects": [
+    {
+      "file_name": "project-dewatering.jpg",
+      "path": "/assets/images/jis/projects/project-dewatering.jpg",
+      "alt_text": "A large dewatering project at a major construction site.",
+      "caption": "Groundwater control for a mega project.",
+      "section": "Projects"
+    },
+    {
+      "file_name": "project-hydrojetting.jpg",
+      "path": "/assets/images/jis/projects/project-hydrojetting.jpg",
+      "alt_text": "Technicians performing hydrojetting on industrial equipment during a plant turnaround.",
+      "caption": "Plant turnaround services for a petrochemical client.",
+      "section": "Projects"
+    },
+    {
+      "file_name": "project-waste-management.jpg",
+      "path": "/assets/images/jis/projects/project-waste-management.jpg",
+      "alt_text": "A JIS truck collecting industrial waste from a facility.",
+      "caption": "Industrial waste management contract in Jubail.",
+      "section": "Projects"
+    },
+    {
+      "file_name": "project-manpower.jpg",
+      "path": "/assets/images/jis/projects/project-manpower.jpg",
+      "alt_text": "A team of JIS-supplied technicians working on a pipeline.",
+      "caption": "Skilled manpower supply for an Aramco contractor.",
+      "section": "Projects"
+    },
+    {
+      "file_name": "project-trading.jpg",
+      "path": "/assets/images/jis/projects/project-trading.jpg",
+      "alt_text": "Crates of supplied industrial equipment ready for installation.",
+      "caption": "Critical equipment supply for SATORP Refinery.",
+      "section": "Projects"
+    },
+    {
+      "file_name": "project-chemical-cleaning.jpg",
+      "path": "/assets/images/jis/projects/project-chemical-cleaning.jpg",
+      "alt_text": "Equipment setup for a chemical cleaning job at a power plant.",
+      "caption": "Boiler chemical cleaning for a power generation client.",
+      "section": "Projects"
+    }
+  ],
+  "careers": [
+    {
+      "file_name": "careers-banner.jpg",
+      "path": "/assets/images/jis/careers/careers-banner.jpg",
+      "alt_text": "A diverse group of smiling JIS employees in uniform.",
+      "caption": "Join a dynamic and growing team at JIS.",
+      "section": "Careers"
+    }
+  ],
+  "backgrounds": [
+    {
+        "file_name": "cert-bg.jpg",
+        "path": "/assets/images/jis/background-elements/cert-bg.jpg",
+        "alt_text": "Abstract background with green and gold industrial tones.",
+        "caption": "Background for the certifications section on the homepage.",
+        "section": "Background Elements"
+    }
+  ]
+}
