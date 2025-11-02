@@ -43,11 +43,13 @@ export interface PostGridBlock {
 
 export type ContentBlockType = TextBlock | ImageBlock | SliderBlock | PostGridBlock;
 
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || 'http://localhost:3001';
+
 const PostGrid: React.FC<{ columns: number }> = ({ columns }) => {
   const [pages, setPages] = useState<any[]>([]);
 
   useEffect(() => {
-    fetch('http://localhost:3001/api/pages')
+    fetch(`${BACKEND_URL}/api/pages`)
       .then(response => response.json())
       .then(data => setPages(data))
       .catch(error => console.error('Error fetching pages:', error));

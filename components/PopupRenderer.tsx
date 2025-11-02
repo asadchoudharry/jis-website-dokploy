@@ -13,6 +13,8 @@ interface Popup {
   };
 }
 
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || 'http://localhost:3001';
+
 const Popup: React.FC<{ popup: Popup, onClose: () => void }> = ({ popup, onClose }) => {
   return (
     <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
@@ -31,7 +33,7 @@ const PopupRenderer: React.FC = () => {
   const [visiblePopups, setVisiblePopups] = useState<string[]>([]);
 
   useEffect(() => {
-    fetch('http://localhost:3001/api/popups')
+    fetch(`${BACKEND_URL}/api/popups`)
       .then(response => response.json())
       .then(data => setPopups(data))
       .catch(error => console.error('Error fetching popups:', error));

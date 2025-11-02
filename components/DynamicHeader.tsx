@@ -2,11 +2,13 @@ import React, { useState, useEffect } from 'react';
 import PageRenderer from './PageRenderer';
 import { ContentBlockType } from './admin/ContentBlock';
 
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || 'http://localhost:3001';
+
 const DynamicHeader: React.FC = () => {
   const [content, setContent] = useState<ContentBlockType[]>([]);
 
   useEffect(() => {
-    fetch(`http://localhost:3001/api/theme/header`)
+    fetch(`${BACKEND_URL}/api/theme/header`)
       .then(response => response.json())
       .then(data => {
         setContent(data.content || []);

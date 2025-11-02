@@ -18,6 +18,8 @@ import SortableItem from '../../components/admin/SortableItem';
 import { ContentBlockType } from '../../components/admin/ContentBlock';
 import AdminLayout from '../../components/admin/AdminLayout';
 
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || 'http://localhost:3001';
+
 const EditFooter: React.FC = () => {
   const [content, setContent] = useState<ContentBlockType[]>([]);
 
@@ -29,7 +31,7 @@ const EditFooter: React.FC = () => {
   );
 
   useEffect(() => {
-    fetch(`http://localhost:3001/api/theme/footer`)
+    fetch(`${BACKEND_URL}/api/theme/footer`)
       .then(response => response.json())
       .then(data => {
         setContent(data.content || []);
@@ -50,7 +52,7 @@ const EditFooter: React.FC = () => {
   };
 
   const handleSave = () => {
-    fetch(`http://localhost:3001/api/theme/footer`, {
+    fetch(`${BACKEND_URL}/api/theme/footer`, {
       method: 'PUT',
       headers: {
         'Content-Type': 'application/json',

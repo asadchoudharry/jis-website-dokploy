@@ -3,6 +3,8 @@ import { useParams } from 'react-router-dom';
 import PageRenderer from '../components/PageRenderer';
 import { ContentBlockType } from '../components/admin/ContentBlock';
 
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || 'http://localhost:3001';
+
 interface PageData {
   title: string;
   content: ContentBlockType[];
@@ -13,7 +15,7 @@ const Page: React.FC = () => {
   const [page, setPage] = useState<PageData | null>(null);
 
   useEffect(() => {
-    fetch(`http://localhost:3001/api/pages/${slug}`)
+    fetch(`${BACKEND_URL}/api/pages/${slug}`)
       .then(response => {
         if (!response.ok) {
           throw new Error('Page not found');

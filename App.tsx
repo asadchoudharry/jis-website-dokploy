@@ -67,10 +67,12 @@ const ScrollToTop: React.FC = () => {
 
 const COOKIE_CONSENT_KEY = 'jis_cookie_consent';
 
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || 'http://localhost:3001';
+
 const AppContent: React.FC = () => {
   
   React.useEffect(() => {
-    fetch('http://localhost:3001/api/settings')
+    fetch(`${BACKEND_URL}/api/settings`)
       .then(response => response.json())
       .then(data => {
         document.title = data.title;
@@ -156,7 +158,7 @@ const App: React.FC = () => {
   const [settings, setSettings] = React.useState<SiteSettings | null>(null);
 
   React.useEffect(() => {
-    fetch('http://localhost:3001/api/settings')
+    fetch(`${BACKEND_URL}/api/settings`)
       .then(response => response.json())
       .then(data => {
         setSettings(data);

@@ -2,6 +2,8 @@ import React, { useState } from 'react';
 import { ContentBlockType, Slide } from './ContentBlock';
 import TextBlockEditor from './TextBlockEditor';
 
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || 'http://localhost:3001';
+
 interface EditBlockProps {
   block: ContentBlockType;
   onChange: (block: ContentBlockType) => void;
@@ -22,7 +24,7 @@ const EditBlock: React.FC<EditBlockProps> = ({ block, onChange }) => {
     const formData = new FormData();
     formData.append('file', file);
 
-    fetch('http://localhost:3001/api/upload', {
+    fetch(`${BACKEND_URL}/api/upload`, {
       method: 'POST',
       body: formData,
     })

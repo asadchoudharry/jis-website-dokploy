@@ -17,6 +17,8 @@ interface Form {
   steps: FormStep[];
 }
 
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || 'http://localhost:3001';
+
 interface FormRendererProps {
   formName: string;
 }
@@ -28,7 +30,7 @@ const FormRenderer: React.FC<FormRendererProps> = ({ formName }) => {
   const [currentStep, setCurrentStep] = useState(0);
 
   useEffect(() => {
-    fetch(`http://localhost:3001/api/forms/${formName}`)
+    fetch(`${BACKEND_URL}/api/forms/${formName}`))
       .then(response => response.json())
       .then(data => setForm(data))
       .catch(error => console.error('Error fetching form:', error));
@@ -49,7 +51,7 @@ const FormRenderer: React.FC<FormRendererProps> = ({ formName }) => {
       setCurrentStep(currentStep + 1);
     } else {
       setSubmissionStatus('submitting');
-      fetch(`http://localhost:3001/api/forms/${formName}/submissions`, {
+      fetch(`${BACKEND_URL}/api/forms/${formName}/submissions`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
