@@ -30,7 +30,7 @@ const FormRenderer: React.FC<FormRendererProps> = ({ formName }) => {
   const [currentStep, setCurrentStep] = useState(0);
 
   useEffect(() => {
-    fetch(`${BACKEND_URL}/api/forms/${formName}`))
+    fetch(`${BACKEND_URL}/api/forms/${formName}`)
       .then(response => response.json())
       .then(data => setForm(data))
       .catch(error => console.error('Error fetching form:', error));
