@@ -13,6 +13,17 @@ const isProduction = process.env.NODE_ENV === 'production';
 // Use environment variables for paths, with fallbacks for local development
 const dbPath = process.env.DB_PATH || path.resolve(__dirname, '../db.json');
 console.log(`DB_PATH resolved to: ${dbPath}`);
+
+let initialDbContent: any;
+try {
+  const data = fs.readFileSync(dbPath, 'utf8');
+  initialDbContent = JSON.parse(data);
+  console.log('Successfully read and parsed db.json at startup.');
+  console.log('Initial DB content (users array):', initialDbContent.users);
+} catch (error) {
+  console.error('Error reading or parsing db.json at startup:', error);
+  process.exit(1); // Exit if database cannot be read
+}
 const uploadsPath = process.env.UPLOADS_PATH || path.resolve(__dirname, '../uploads');
 
 
