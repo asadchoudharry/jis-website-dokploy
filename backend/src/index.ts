@@ -17,7 +17,7 @@ const uploadsPath = process.env.UPLOADS_PATH || path.resolve(__dirname, '../uplo
 
 
 app.use(cors({
-    origin: isProduction ? ['https://your-domain.com'] : '*',
+    origin: isProduction ? ['https://staging.jis-saudi.com'] : '*',
     methods: ['GET', 'POST', 'PUT', 'DELETE'],
     allowedHeaders: ['Content-Type', 'Authorization']
 }));
