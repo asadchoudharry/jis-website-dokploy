@@ -1,12 +1,4 @@
-# Stage 1: Build the Frontend
-FROM node:20-alpine AS frontend-builder
-WORKDIR /app
-COPY package*.json ./
-RUN npm install
-COPY . .
-# The API will be served from the same domain, so no prefix is needed.
-ENV VITE_API_BASE_URL=/api
-RUN npm run build
+
 
 # Stage 2: Build the Backend
 FROM node:20-alpine AS backend-builder
@@ -28,7 +20,7 @@ RUN npm install --production
 COPY --from=backend-builder /app/dist ./dist
 
 # Copy built frontend code into a 'public' directory
-COPY --from=frontend-builder /app/dist ./public
+
 
 # Create a non-root user for security
 RUN addgroup -S appgroup && adduser -S appuser -G appgroup
