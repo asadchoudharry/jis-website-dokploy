@@ -123,6 +123,19 @@ app.get('/', (req, res) => {
   res.send('Hello World!');
 });
 
+// WARNING: This is a temporary debug endpoint and exposes sensitive database content.
+// REMOVE THIS ENDPOINT IMMEDIATELY AFTER DEBUGGING IN PRODUCTION.
+app.get('/api/debug-db', (req, res) => {
+  fs.readFile(dbPath, 'utf8', (err, data) => {
+    if (err) {
+      console.error('Error reading db.json for debug endpoint:', err);
+      return res.status(500).send('Error reading database for debug');
+    }
+    res.setHeader('Content-Type', 'application/json');
+    res.send(data);
+  });
+});
+
 app.get('/api/settings', (req, res) => {
   fs.readFile(dbPath, 'utf8', (err, data) => {
     if (err) {
