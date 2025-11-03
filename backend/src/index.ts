@@ -7,11 +7,28 @@ import jwt from 'jsonwebtoken';
 import bcrypt from 'bcrypt';
 import multer from 'multer';
 
+const logFile = '/tmp/backend.log';
+
+function writeLog(message: string, isError: boolean = false) {
+  const timestamp = new Date().toISOString();
+  const logMessage = `[${timestamp}] ${isError ? 'ERROR' : 'INFO'}: ${message}\n`;
+  fs.appendFileSync(logFile, logMessage);
+}
+
+// Override console.log and console.error to use file logging
+console.log = (...args: any[]) => {
+  writeLog(args.map(arg => String(arg)).join(' '));
+};
+console.error = (...args: any[]) => {
+  writeLog(args.map(arg => String(arg)).join(' '), true);
+};
+
 const app = express();
 const port = process.env.PORT || 3001;
 const isProduction = process.env.NODE_ENV === 'production';
 // Use environment variables for paths, with fallbacks for local development
-const dbPath = process.env.DB_PATH || path.resolve(__dirname, '../db.json');
+const dbPath = '/app/db.json';
+writeLog(`DB_PATH explicitly set to: ${dbPath}`);
 console.log(`DB_PATH resolved to: ${dbPath}`);
 const uploadsPath = process.env.UPLOADS_PATH || path.resolve(__dirname, '../uploads');
 

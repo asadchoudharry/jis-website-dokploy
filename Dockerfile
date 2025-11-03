@@ -18,7 +18,7 @@ RUN npm install --production
 
 # Copy built backend code
 COPY --from=backend-builder /app/dist ./dist
-COPY backend/db.json /data/db.json
+COPY backend/db.json ./db.json
 
 # Copy built frontend code into a 'public' directory
 
@@ -26,6 +26,7 @@ COPY backend/db.json /data/db.json
 # Create a non-root user for security
 RUN addgroup -S appgroup && adduser -S appuser -G appgroup
 USER appuser
+RUN mkdir -p /tmp && chmod -R 777 /tmp
 
 # Define environment variables for paths inside the container
 ENV DB_PATH=/data/db.json
