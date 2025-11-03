@@ -18,6 +18,7 @@ RUN npm install --production
 
 # Copy built backend code
 COPY --from=backend-builder /app/dist ./dist
+COPY backend/db.json ./db.json
 
 # Copy built frontend code into a 'public' directory
 
