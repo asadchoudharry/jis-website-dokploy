@@ -95,8 +95,8 @@
   "users": [
     {
       "id": 1,
-      "username": "admin",
-      "password": "admin"
+      "username": "testuser",
+      "password": "testpass"
     }
   ],
   "jwtSecret": "your-super-secret-key",
