@@ -67,7 +67,7 @@ const ScrollToTop: React.FC = () => {
 
 const COOKIE_CONSENT_KEY = 'jis_cookie_consent';
 
-const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || 'http://localhost:3001';
+const BACKEND_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:3001';
 
 const AppContent: React.FC = () => {
   
