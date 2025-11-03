@@ -34,4 +34,4 @@ ENV PORT=3001
 
 EXPOSE 3001
 
-CMD [ "node", "dist/index.js" ]
+CMD DB_PATH=/data/db.json node dist/index.js
