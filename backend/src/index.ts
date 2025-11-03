@@ -12,6 +12,7 @@ const port = process.env.PORT || 3001;
 const isProduction = process.env.NODE_ENV === 'production';
 // Use environment variables for paths, with fallbacks for local development
 const dbPath = process.env.DB_PATH || path.resolve(__dirname, '../db.json');
+console.log(`DB_PATH resolved to: ${dbPath}`);
 const uploadsPath = process.env.UPLOADS_PATH || path.resolve(__dirname, '../uploads');
 
 
@@ -48,12 +49,21 @@ app.post('/api/auth/login', (req, res) => {
   const { username, password } = req.body;
   fs.readFile(dbPath, 'utf8', (err, data) => {
     if (err) {
-      console.error(err);
+      console.error('Error reading database file:', err);
       return res.status(500).send('Error reading database');
     }
-    const db = JSON.parse(data);
+    console.log('Database file read successfully.');
+    let db;
+    try {
+      db = JSON.parse(data);
+      console.log('Database parsed successfully.');
+    } catch (parseError) {
+      console.error('Error parsing database JSON:', parseError);
+      return res.status(500).send('Error parsing database');
+    }
     const user = db.users.find((u: any) => u.username === username);
     if (user) {
+      console.log(`User found: ${username}`);
       // WARNING: Plain text password comparison. Not secure.
       // In a real application, you should hash the password and compare the hash.
       if (user.password === password) {
